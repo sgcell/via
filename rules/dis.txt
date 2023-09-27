@@ -1,0 +1,3 @@
+!简书 阅读全文
+jianshu.com##div[class$="_0"]
+

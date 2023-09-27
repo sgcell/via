@@ -1,0 +1,24 @@
+name: Update
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '58 2 * * *'
+  push:
+    paths:
+      - '**.lua'
+env:
+  GH_TOKEN: ${{ github.token }}
+  msg: ${{ github.event.head_commit.message }}
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: leafo/gh-actions-lua@v10
+      - name: Lua main
+        if: ${{ !contains(env.msg, 'test.lua') }}
+        #contains(fromJSON('["schedule", "workflow_dispatch"]'), github.event_name) || contains(env.msg, 'main.lua')
+        run: lua .github/main.lua
+      - name: Lua test
+        if: ${{ contains(env.msg, 'test.lua') }}
+        run: lua .github/test.lua '${{ env.msg }}'
