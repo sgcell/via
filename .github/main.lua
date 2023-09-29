@@ -1,4 +1,4 @@
-local _g={}
+local _g,arg={a={},d={}},arg or {...}
 local function Read(p,o)
   p=(o and io.popen or io.open)(p)
   if p then
@@ -12,6 +12,17 @@ local function Try(a,b,c)
     return b(a)
    else
     return c and c()
+  end
+end
+local function add(f,o)
+  for a in f:gmatch("\n([^%[!][^\r\n]+)") do
+    if not _g[a] then
+      table.insert(_g,a)
+      if o then
+        table.insert(_g.a,a)
+      end
+    end
+    _g[a]=o or 0
   end
 end
 
@@ -30,7 +41,7 @@ Try(Read(_g.s:format("","?per_page=99&status=completed"),true),function(f,x,y)
   print(("Dels: %s/%s"):format(#x,x.i),#x>0 and os.execute(table.concat(x,"\n")))
 end)
 
-Try(Read("README.md"),function(f,x)
+Try(arg[1]~="workflow_dispatch" and Read("README.md"),function(f,x)
   f={f:match("(%d%d%d%d)%-(%d%d)%-(%d%d) (%d%d):(%d%d)")}
   if f[1] then
     x=os.time{year=tonumber(f[1]),month=tonumber(f[2]),day=tonumber(f[3]),hour=tonumber(f[4]),min=tonumber(f[5])}-os.time()
@@ -43,73 +54,57 @@ Try(Read("README.md"),function(f,x)
   end
 end)
 
-_g.s=Try(Read("curl -f --retry 1 https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt",true),function(f,x)
-  x=f:sub(1,99)
-  if not x:find("[Adblock Plus",1,true) then
-    print("adblock:",x)
-    os.exit(true,true)
-  end
-  return f
+Try(Read("rules/base.txt"),function(f)
+  add(f)
   end,function()
-  print("link adblock")
+  print("Err: base.txt")
   os.exit(true,true)
 end)
 
-local function add(a,o)
-  if not _g[a] then
-    _g[a]=1
-    a=a:match("^%s*(.-)%s*$")
-    if #a>4 then
-      _g[a]=1
-      return o or table.insert(_g,a)
-    end
-  end
-end
-
-Try(Read("rules/dis.txt"),function(f)
-  for a in f:gmatch("\n([^!][^\n]+)") do
-    add(a,true)
-  end
+Try(Read("curl -f --retry 1 https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt",true),function(f,x)
+  add(f,1)
   end,function()
-  print("Err: dis.txt")
+  print("Err: adblock")
 end)
-
-for a in _g.s:sub((_g.s:find("\n[^!]",9))):gmatch("[^\n]+") do
-  add(a)
-end
 
 Try(Read("curl -f --retry 1 https://gp.adrules.top/adblock_lite.txt",true),function(f,x)
-  x=f:sub(1,99)
-  if x:find("[Adblock Plus",1,true) then
-    table.insert(_g,"\n! →→→→ Cats-Team/AdRules ←←←← !")
-    for a in f:sub((f:find("\n[^!]",9))):gmatch("[^\r\n]+") do
-      add(a)
-    end
-    table.insert(_g,"! →→→→ Cats-Team/AdRules ←←←← !")
-   else
-    print("Err: AdRules",x)
-  end
+  add(f,2)
   end,function()
-  print("Err: link AdRules")
+  print("Err: AdRules")
 end)
 
-Try(Read("rules/add.txt"),function(f)
-  for a in f:gmatch("\n([^!][^\n]+)") do
-    add(a)
+for i=#_g,1,-1 do
+  if _g[i]==0
+    table.insert(_g.d,_g[i])
+    table.remove(_g,i)
   end
-  end,function()
-  print("Err: add.txt")
-end)
+end
 
-_g.c,_g.t=tostring(#_g-12),os.time()+os.time{year=1970,month=1,day=1,hour=8}
-table.insert(_g,1,string.format([[[Adblock Plus 2.0]
+_g.c,_g.t=tostring(#_g),os.time()+os.time{year=1970,month=1,day=1,hour=8}
+_g.ta=os.date("%Y-%m-%d %H:%M",_g.t)
+_g.tb=os.date("%y%m%d_%H%M",_g.t)
+table.insert(_g.b,1,"! "..(_g.ta))
+io.open("rules/base.txt","w"):write(table.concat(_g.b,"\n")):close()
+table.insert(_g.d,1,"\n!"..(_g.ta))
+io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n")):close()
+
+local f,s=io.open("adblock_lite.txt","r+")
+if f then
+  s=f:read("a")
+  :gsub("!%s*Total%s*Count:%s*%d+","! Total Count: "..(_g.c))
+  :gsub("!%s*Version:%s*%S+","! Version: "..(_g.tb))
+  f:seek("set")
+ else
+  s=string.format([[[Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
 ! Total Count: %s
 ! Version: %s
 ! Homepage: https://sgcell.github.io/via/
-]],_g.c,os.date("%y%m%d_%H%M",_g.t)))
-
-io.open("adblock_lite.txt","w"):write(table.concat(_g,"\n")):close()
+]],_g.c,_g.tb)
+  f=io.open("adblock_lite.txt","w")
+end
+table.insert(_g,1,s.."\n")
+f:write(table.concat(_g,"\n")):close()
 
 _g.s=Read("coolurl.user.js")
 _g.s=[[脚本&拦截规则（轻量浏览器）
@@ -125,7 +120,7 @@ _g.s=[[脚本&拦截规则（轻量浏览器）
 # 拦截规则
 
 - [【 混合规则（轻量版） 】](https://sgcell.github.io/via/adblock_lite.txt)  
-]]..os.date("  更新： %Y-%m-%d %H:%M  （",_g.t)..(_g.c)..[[）  
+]]..string.format("  更新： %s  \n  －%s ＋%s  %s  ",_g.ta,#_g.d-1,#_g.a-1,_g.c)..[[
   适用于轻量浏览器
 
 ## 上游规则
