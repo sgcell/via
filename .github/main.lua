@@ -124,7 +124,7 @@ _g.s=[[脚本&拦截规则（轻量浏览器）
 # 拦截规则
 
 - [【 混合规则（轻量版） 】](https://sgcell.github.io/via/adblock_lite.txt)  
-]]..string.format("  更新： %s  \n  －%s ＋%s ＝%s  \n",_g.ta,#_g.d-1,#_g.a-1,_g.c)..[[
+]]..string.format("  更新： %s  \n  －%s ＋%s ＝%s  \n",_g.ta,math.max(#_g.d-1,0),math.max(#_g.a-1,0),_g.c)..[[
   适用于轻量浏览器
 
 ## 上游规则
