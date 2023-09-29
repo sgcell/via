@@ -61,6 +61,12 @@ Try(Read("rules/base.txt"),function(f)
   os.exit(true,true)
 end)
 
+Try(Read("adblock_lite.txt"),function(f)
+  add(f)
+  _g.c=f:match("! Total Count: (%d+)")
+  _g.s=f:match("(! →→→→.+)$")
+end)
+
 Try(Read("curl -f --retry 1 https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt",true),function(f,x)
   add(f,1)
   end,function()
@@ -80,52 +86,39 @@ for i=#_g,1,-1 do
   end
 end
 
-_g.c,_g.t=tostring(#_g),os.time()+os.time{year=1970,month=1,day=1,hour=8}
+_g.t=os.time()+os.time{year=1970,month=1,day=1,hour=8}
 _g.ta=os.date("%Y-%m-%d %H:%M",_g.t)
 _g.tb=os.date("%y%m%d_%H%M",_g.t)
-table.insert(_g,1,"! "..(_g.ta))
 io.open("rules/base.txt","w"):write(table.concat(_g,"\n")):close()
 if #_g.d>0 then
   table.insert(_g.d,1,"\n!"..(_g.ta))
   io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n")):close()
 end
 
-if #_g.a>0 then
-  local f,s=io.open("adblock_lite.txt","r+")
-  if f then
-    s=f:read("a")
-    :gsub("!%s*Total%s*Count:%s*%d+","! Total Count: "..(_g.c))
-    :gsub("!%s*Version:%s*%S+","! Version: "..(_g.tb))
-    f:seek("set")
-   else
-    s=string.format([[[Adblock Plus 2.0]
-! Title: 混合规则（轻量版）
-! Total Count: %s
-! Version: %s
-! Homepage: https://sgcell.github.io/via/
-]],_g.c,_g.tb)
-    f=io.open("adblock_lite.txt","w")
+if _g.s and _g.c then
+  _,_g.t=_g.s:gsub("\n[^[!\n][^\r\n]+","")
+  if _g.c~=tostring(_g.t) then
+    _g.h=true
   end
-  table.insert(_g.a,1,s.."\n")
-  f:write(table.concat(_g.a,"\n")):close()
+  _g.c=_g.t+#_g.a
 end
 
-if #_g.a>0 or #_g.d>0 then
-  _g.s=Read("coolurl.user.js")
-  _g.s=[[脚本&拦截规则（轻量浏览器）
+if _g.h or #_g.a>0 or #_g.d>0 then
+  _g.c,_g.h=_g.c or #_g.a,Read("coolurl.user.js")
+  _g.h=[[脚本&拦截规则（轻量浏览器）
 
 欢迎提交反馈 [【赞助】](http://top-tech.cc/pay)
 
 # 脚本
 
-- [【 链接重定向 ]]..(_g.s and _g.s:match("//%s*@version%s+(%S+)") or "")..[[ 】](https://sgcell.github.io/via/coolurl.user.js)  
+- [【 链接重定向 ]]..(_g.h and _g.h:match("//%s*@version%s+(%S+)") or "")..[[ 】](https://sgcell.github.io/via/coolurl.user.js)  
   自动跳过中转页面  
   支持：酷安、知乎、简书、CSDN  
 
 # 拦截规则
 
 - [【 混合规则（轻量版） 】](https://sgcell.github.io/via/adblock_lite.txt)  
-]]..string.format("  更新： %s  \n  －%s ＋%s ＝%s  \n",_g.ta,math.max(#_g.d-1,0),math.max(#_g.a-1,0),_g.c)..[[
+]]..string.format("  更新： %s  \n  －%s ＋%s ＝%s  \n",_g.ta,math.max(#_g.d-1,0),#_g.a,_g.c)..[[
   适用于轻量浏览器
 
 ## 上游规则
@@ -136,6 +129,18 @@ if #_g.a>0 or #_g.d>0 then
 </ul>
 </details>]]
   io.open("README.md","w"):write(_g.s):close()
+
+  table.insert(_g.a,1,string.format([[
+[Adblock Plus 2.0]
+! Title: 混合规则（轻量版）
+! Total Count: %s
+! Version: %s
+! Homepage: https://sgcell.github.io/via/
+]],_g.c,_g.tb))
+  if _g.s then
+    table.insert(_g.a,2,_g.s)
+  end
+  io.open("adblock_lite.txt","w"):write(table.concat(_g.a,"\n")):close()
 end
 
 os.execute([[
