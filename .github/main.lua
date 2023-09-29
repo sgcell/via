@@ -74,7 +74,7 @@ Try(Read("curl -f --retry 1 https://gp.adrules.top/adblock_lite.txt",true),funct
 end)
 
 for i=#_g,1,-1 do
-  if _g[i]==0
+  if _g[i]==0 then
     table.insert(_g.d,_g[i])
     table.remove(_g,i)
   end
