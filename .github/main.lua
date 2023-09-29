@@ -15,7 +15,7 @@ local function Try(a,b,c)
   end
 end
 local function add(f,o)
-  for a in f:gmatch("\n([^%[!][^\r\n]+)") do
+  for a in f:gmatch("\n([^[!\n][^\r\n]+)") do
     if not _g[a] then
       table.insert(_g,a)
       if o then
