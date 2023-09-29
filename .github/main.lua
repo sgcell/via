@@ -83,8 +83,8 @@ end
 _g.c,_g.t=tostring(#_g),os.time()+os.time{year=1970,month=1,day=1,hour=8}
 _g.ta=os.date("%Y-%m-%d %H:%M",_g.t)
 _g.tb=os.date("%y%m%d_%H%M",_g.t)
-table.insert(_g.b,1,"! "..(_g.ta))
-io.open("rules/base.txt","w"):write(table.concat(_g.b,"\n")):close()
+table.insert(_g,1,"! "..(_g.ta))
+io.open("rules/base.txt","w"):write(table.concat(_g,"\n")):close()
 table.insert(_g.d,1,"\n!"..(_g.ta))
 io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n")):close()
 
@@ -103,8 +103,8 @@ if f then
 ]],_g.c,_g.tb)
   f=io.open("adblock_lite.txt","w")
 end
-table.insert(_g,1,s.."\n")
-f:write(table.concat(_g,"\n")):close()
+table.insert(_g.a,1,s.."\n")
+f:write(table.concat(_g.a,"\n")):close()
 
 _g.s=Read("coolurl.user.js")
 _g.s=[[脚本&拦截规则（轻量浏览器）
