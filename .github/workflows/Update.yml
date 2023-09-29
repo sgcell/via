@@ -17,8 +17,7 @@ jobs:
       - uses: leafo/gh-actions-lua@v10
       - name: Lua main
         if: ${{ !contains(env.msg, 'test.lua') }}
-        #contains(fromJSON('["schedule", "workflow_dispatch"]'), github.event_name) || contains(env.msg, 'main.lua')
-        run: lua .github/main.lua
+        run: lua .github/main.lua '${{ github.event_name }}'
       - name: Lua test
         if: ${{ contains(env.msg, 'test.lua') }}
         run: lua .github/test.lua '${{ env.msg }}'
