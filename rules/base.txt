@@ -1,4 +1,3 @@
-|https://m.frgls.com/js/*.js?v=
 ||*.$image,redirect=1x1.gif,third-party,domain=rmdown.com
 ||*/ad/$redirect=noop-0.1s.mp3,domain=huaren.tv,media
 ||*^sdtfrom=^$media,redirect=noop-0.1s.mp3,domain=qq.com
@@ -43662,3 +43661,4 @@ tieba.baidu.com,tieba.com,wapp.baidu.com###pblist > li[class]:not(.j_post_list_i
 ##a[href*=".337771.xyz"]
 ##a[href*=".337772.xyz"]
 ##a[onclick*=".337770.xyz"]
+|https://m.frgls.com/js/*.js?v=
