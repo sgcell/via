@@ -41,7 +41,7 @@ Try(Read(_g.s:format("","?per_page=99&status=completed"),true),function(f,x,y)
   print(("Dels: %s/%s"):format(#x,x.i),#x>0 and os.execute(table.concat(x,"\n")))
 end)
 
-Try(arg[1]~="workflow_dispatch" and Read("README.md"),function(f,x)
+Try(arg[1]=="push" and Read("README.md"),function(f,x)
   f={f:match("(%d%d%d%d)%-(%d%d)%-(%d%d) (%d%d):(%d%d)")}
   if f[1] then
     x=os.time{year=tonumber(f[1]),month=tonumber(f[2]),day=tonumber(f[3]),hour=tonumber(f[4]),min=tonumber(f[5])}-os.time()
@@ -85,26 +85,30 @@ _g.ta=os.date("%Y-%m-%d %H:%M",_g.t)
 _g.tb=os.date("%y%m%d_%H%M",_g.t)
 table.insert(_g,1,"! "..(_g.ta))
 io.open("rules/base.txt","w"):write(table.concat(_g,"\n")):close()
-table.insert(_g.d,1,"\n!"..(_g.ta))
-io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n")):close()
+if #_g.d>0 then
+  table.insert(_g.d,1,"\n!"..(_g.ta))
+  io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n")):close()
+end
 
-local f,s=io.open("adblock_lite.txt","r+")
-if f then
-  s=f:read("a")
-  :gsub("!%s*Total%s*Count:%s*%d+","! Total Count: "..(_g.c))
-  :gsub("!%s*Version:%s*%S+","! Version: "..(_g.tb))
-  f:seek("set")
- else
-  s=string.format([[[Adblock Plus 2.0]
+if #_g.a>0 then
+  local f,s=io.open("adblock_lite.txt","r+")
+  if f then
+    s=f:read("a")
+    :gsub("!%s*Total%s*Count:%s*%d+","! Total Count: "..(_g.c))
+    :gsub("!%s*Version:%s*%S+","! Version: "..(_g.tb))
+    f:seek("set")
+   else
+    s=string.format([[[Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
 ! Total Count: %s
 ! Version: %s
 ! Homepage: https://sgcell.github.io/via/
 ]],_g.c,_g.tb)
-  f=io.open("adblock_lite.txt","w")
+    f=io.open("adblock_lite.txt","w")
+  end
+  table.insert(_g.a,1,s.."\n")
+  f:write(table.concat(_g.a,"\n")):close()
 end
-table.insert(_g.a,1,s.."\n")
-f:write(table.concat(_g.a,"\n")):close()
 
 _g.s=Read("coolurl.user.js")
 _g.s=[[脚本&拦截规则（轻量浏览器）
@@ -120,7 +124,7 @@ _g.s=[[脚本&拦截规则（轻量浏览器）
 # 拦截规则
 
 - [【 混合规则（轻量版） 】](https://sgcell.github.io/via/adblock_lite.txt)  
-]]..string.format("  更新： %s  \n  －%s ＋%s  %s  ",_g.ta,#_g.d-1,#_g.a-1,_g.c)..[[
+]]..string.format("  更新： %s  \n  －%s ＋%s ＝%s  \n",_g.ta,#_g.d-1,#_g.a-1,_g.c)..[[
   适用于轻量浏览器
 
 ## 上游规则
