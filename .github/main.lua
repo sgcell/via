@@ -110,8 +110,9 @@ if #_g.a>0 then
   f:write(table.concat(_g.a,"\n")):close()
 end
 
-_g.s=Read("coolurl.user.js")
-_g.s=[[脚本&拦截规则（轻量浏览器）
+if #_g.a>0 or #_g.d>0 then
+  _g.s=Read("coolurl.user.js")
+  _g.s=[[脚本&拦截规则（轻量浏览器）
 
 欢迎提交反馈 [【赞助】](http://top-tech.cc/pay)
 
@@ -134,7 +135,8 @@ _g.s=[[脚本&拦截规则（轻量浏览器）
 <br /><li><a href="https://github.com/Cats-Team/AdRules" target="_blank"> AdRules AdBlock List Lite </a></li>
 </ul>
 </details>]]
-io.open("README.md","w"):write(_g.s):close()
+  io.open("README.md","w"):write(_g.s):close()
+end
 
 os.execute([[
 git config --local user.email "sgcell@github.com"
