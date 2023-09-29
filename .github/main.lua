@@ -128,7 +128,7 @@ if _g.h or #_g.a>0 or #_g.d>0 then
 <br /><li><a href="https://github.com/Cats-Team/AdRules" target="_blank"> AdRules AdBlock List Lite </a></li>
 </ul>
 </details>]]
-  io.open("README.md","w"):write(_g.s):close()
+  io.open("README.md","w"):write(_g.h):close()
 
   table.insert(_g.a,1,string.format([[
 [Adblock Plus 2.0]
