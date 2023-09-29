@@ -118,7 +118,7 @@ if _g.h or #_g.a>0 or #_g.d>0 then
 # 拦截规则
 
 - [【 混合规则（轻量版） 】](https://sgcell.github.io/via/adblock_lite.txt)  
-]]..string.format("  更新： %s  \n  －%s ＋%s ＝%s  \n",_g.ta,math.max(#_g.d-1,0),#_g.a,_g.c)..[[
+]]..string.format("  更新： %s （ %s-%s:%s ）  \n",_g.ta,#_g.a,math.max(#_g.d-1,0),_g.c)..[[
   适用于轻量浏览器
 
 ## 上游规则
