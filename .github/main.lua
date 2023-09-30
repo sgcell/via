@@ -15,7 +15,7 @@ local function Try(a,b,c)
   end
 end
 local function add(f,o)
-  for a in f:gmatch("\n([^[!\n][^\r\n]+)") do
+  for a in ("\n"..f):gmatch("\n([^[!\n][^\r\n]+)") do
     if not _g[a] then
       table.insert(_g,a)
       if o then
@@ -89,10 +89,11 @@ end
 _g.t=os.time()+os.time{year=1970,month=1,day=1,hour=8}
 _g.ta=os.date("%Y-%m-%d %H:%M",_g.t)
 _g.tb=os.date("%y%m%d_%H%M",_g.t)
+table.insert(_g,1,"!规则记录")
 io.open("rules/base.txt","w"):write(table.concat(_g,"\n")):close()
 if #_g.d>0 then
-  table.insert(_g.d,1,"\n!"..(_g.ta))
-  io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n")):close()
+  table.insert(_g.d,1,"!"..(_g.ta))
+  io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n").."\n"):close()
 end
 
 if _g.s and _g.c then
