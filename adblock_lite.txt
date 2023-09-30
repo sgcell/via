@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32110
-! Version: 230930_0130
+! Total Count: 32127
+! Version: 230930_1059
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32126,3 +32126,20 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ##a[href*=".337772.xyz"]
 ##a[onclick*=".337770.xyz"]
 |https://m.frgls.com/js/*.js?v=
+||donghua.asia^
+||haise6.top^
+||hylaxngo.xyz^
+||nafqioj.cn^
+||prntvf.xyz^
+||qhbhlii.xyz^
+||xibfnb.xyz^
+abmedia.io###block-12
+abmedia.io##.pum
+abmedia.io##a[href^="https://ace.io/"]
+abmedia.io##a[href^="https://www.okx.com/"]
+acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com#$#hide-if-matches-xpath './/div[contains(text(),"Sponsored")]/parent::div/ancestor::div[@style][1]'; hide-if-matches-xpath './/div/div[contains(@data-qa,"spnsrd")][text()="Sponsored"]/parent::div/ancestor::div[contains(@class,"placeholder")][1]';
+mercadolibre.com.ar,mercadolibre.com.bo,mercadolivre.com.br,mercadolibre.cl,mercadolibre.com.co,mercadolibre.co.cr,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.py,mercadolibre.com.pe,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#$#hide-if-matches-xpath './/div[@class="andes-carousel-snapped__wrapper"]/preceding::section[@aria-label]/preceding::a[contains(@href,"https://ads.")][@rel="nofollow, sponsored" or @rel="nofollow,sponsored"]/ancestor-or-self::section[@class="ui-recommendations-carousel-wrapper-ref"][1]'
+wandhi.com##.table
+wandhi.com##.unit-100
+winandmac.com,nicekkk.com###custom_html-3
+||letvcdn.com/lc02_live/201803/18/23/40/1521387641261new.
