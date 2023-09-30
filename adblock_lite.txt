@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32127
+! Total Count: 31914
 ! Version: 230930_1059
 ! Homepage: https://sgcell.github.io/via/
 
@@ -16699,8 +16699,8 @@ zhidao.baidu.com##.wap-youx-change-asp
 ||wap.*tangsanshu.*/*/*.js
 ||wap.*wxshuku.*/*/*.js
 ||wap.*yetianlian.*/*/*.js
-||wap.81zw*.app/*/*.js
-||wap.81zw.app/*/*.js
+||wap.81zw*.*/*/*.js
+||wap.81zw.*/*/*.js
 ||wap.biqu*.*/*/*.js
 ||wap.biqu.*/*/*.js
 ||wap.biquge*.*/*/*.js
@@ -16723,188 +16723,20 @@ zhidao.baidu.com##.wap-youx-change-asp
 ||wap.wxshuku.*/*/*.js
 ||wap.yetianlian*.*/*/*.js
 ||wap.yetianlian.*/*/*.js
-||www.*81zw.app/*/*.js
-||www.*81zw.cc/*/*.js
-||www.*81zw.cn/*/*.js
-||www.*81zw.co/*/*.js
-||www.*81zw.com/*/*.js
-||www.*81zw.info/*/*.js
-||www.*81zw.la/*/*.js
-||www.*81zw.me/*/*.js
-||www.*81zw.net/*/*.js
-||www.*81zw.org/*/*.js
-||www.*81zw.so/*/*.js
-||www.*81zw.tw/*/*.js
-||www.*81zw.us/*/*.js
-||www.*biqu.app/*/*.js
-||www.*biqu.cc/*/*.js
-||www.*biqu.cn/*/*.js
-||www.*biqu.co/*/*.js
-||www.*biqu.com/*/*.js
-||www.*biqu.info/*/*.js
-||www.*biqu.la/*/*.js
-||www.*biqu.me/*/*.js
-||www.*biqu.net/*/*.js
-||www.*biqu.org/*/*.js
-||www.*biqu.so/*/*.js
-||www.*biqu.tw/*/*.js
-||www.*biqu.us/*/*.js
-||www.*biquge.app/*/*.js
-||www.*biquge.cc/*/*.js
-||www.*biquge.cn/*/*.js
-||www.*biquge.co/*/*.js
-||www.*biquge.com/*/*.js
-||www.*biquge.info/*/*.js
-||www.*biquge.la/*/*.js
-||www.*biquge.me/*/*.js
-||www.*biquge.net/*/*.js
-||www.*biquge.org/*/*.js
-||www.*biquge.so/*/*.js
-||www.*biquge.tw/*/*.js
-||www.*biquge.us/*/*.js
-||www.*bqg.app/*/*.js
-||www.*bqg.cc/*/*.js
-||www.*bqg.cn/*/*.js
-||www.*bqg.co/*/*.js
-||www.*bqg.com/*/*.js
-||www.*bqg.info/*/*.js
-||www.*bqg.la/*/*.js
-||www.*bqg.me/*/*.js
-||www.*bqg.net/*/*.js
-||www.*bqg.org/*/*.js
-||www.*bqg.so/*/*.js
-||www.*bqg.tw/*/*.js
-||www.*bqg.us/*/*.js
-||www.*dingdian.app/*/*.js
-||www.*dingdian.cc/*/*.js
-||www.*dingdian.cn/*/*.js
-||www.*dingdian.co/*/*.js
-||www.*dingdian.com/*/*.js
-||www.*dingdian.info/*/*.js
-||www.*dingdian.la/*/*.js
-||www.*dingdian.me/*/*.js
-||www.*dingdian.net/*/*.js
-||www.*dingdian.org/*/*.js
-||www.*dingdian.so/*/*.js
-||www.*dingdian.tw/*/*.js
-||www.*dingdian.us/*/*.js
-||www.*kbookzw.app/*/*.js
-||www.*kbookzw.cc/*/*.js
-||www.*kbookzw.cn/*/*.js
-||www.*kbookzw.co/*/*.js
-||www.*kbookzw.com/*/*.js
-||www.*kbookzw.info/*/*.js
-||www.*kbookzw.la/*/*.js
-||www.*kbookzw.me/*/*.js
-||www.*kbookzw.net/*/*.js
-||www.*kbookzw.org/*/*.js
-||www.*kbookzw.so/*/*.js
-||www.*kbookzw.tw/*/*.js
-||www.*kbookzw.us/*/*.js
-||www.*kudushu.app/*/*.js
-||www.*kudushu.cc/*/*.js
-||www.*kudushu.cn/*/*.js
-||www.*kudushu.co/*/*.js
-||www.*kudushu.com/*/*.js
-||www.*kudushu.info/*/*.js
-||www.*kudushu.la/*/*.js
-||www.*kudushu.me/*/*.js
-||www.*kudushu.net/*/*.js
-||www.*kudushu.org/*/*.js
-||www.*kudushu.so/*/*.js
-||www.*kudushu.tw/*/*.js
-||www.*kudushu.us/*/*.js
-||www.*luoqiu.app/*/*.js
-||www.*luoqiu.cc/*/*.js
-||www.*luoqiu.cn/*/*.js
-||www.*luoqiu.co/*/*.js
-||www.*luoqiu.com/*/*.js
-||www.*luoqiu.info/*/*.js
-||www.*luoqiu.la/*/*.js
-||www.*luoqiu.me/*/*.js
-||www.*luoqiu.net/*/*.js
-||www.*luoqiu.org/*/*.js
-||www.*luoqiu.so/*/*.js
-||www.*luoqiu.tw/*/*.js
-||www.*luoqiu.us/*/*.js
-||www.*qishuta.app/*/*.js
-||www.*qishuta.cc/*/*.js
-||www.*qishuta.cn/*/*.js
-||www.*qishuta.co/*/*.js
-||www.*qishuta.com/*/*.js
-||www.*qishuta.info/*/*.js
-||www.*qishuta.la/*/*.js
-||www.*qishuta.me/*/*.js
-||www.*qishuta.net/*/*.js
-||www.*qishuta.org/*/*.js
-||www.*qishuta.so/*/*.js
-||www.*qishuta.tw/*/*.js
-||www.*qishuta.us/*/*.js
-||www.*tangsanshu.app/*/*.js
-||www.*tangsanshu.cc/*/*.js
-||www.*tangsanshu.cn/*/*.js
-||www.*tangsanshu.co/*/*.js
-||www.*tangsanshu.com/*/*.js
-||www.*tangsanshu.info/*/*.js
-||www.*tangsanshu.la/*/*.js
-||www.*tangsanshu.me/*/*.js
-||www.*tangsanshu.net/*/*.js
-||www.*tangsanshu.org/*/*.js
-||www.*tangsanshu.so/*/*.js
-||www.*tangsanshu.tw/*/*.js
-||www.*tangsanshu.us/*/*.js
-||www.*wxshuku.app/*/*.js
-||www.*wxshuku.cc/*/*.js
-||www.*wxshuku.cn/*/*.js
-||www.*wxshuku.co/*/*.js
-||www.*wxshuku.com/*/*.js
-||www.*wxshuku.info/*/*.js
-||www.*wxshuku.la/*/*.js
-||www.*wxshuku.me/*/*.js
-||www.*wxshuku.net/*/*.js
-||www.*wxshuku.org/*/*.js
-||www.*wxshuku.so/*/*.js
-||www.*wxshuku.tw/*/*.js
-||www.*wxshuku.us/*/*.js
-||www.*yetianlian.app/*/*.js
-||www.*yetianlian.cc/*/*.js
-||www.*yetianlian.cn/*/*.js
-||www.*yetianlian.co/*/*.js
-||www.*yetianlian.com/*/*.js
-||www.*yetianlian.info/*/*.js
-||www.*yetianlian.la/*/*.js
-||www.*yetianlian.me/*/*.js
-||www.*yetianlian.net/*/*.js
-||www.*yetianlian.org/*/*.js
-||www.*yetianlian.so/*/*.js
-||www.*yetianlian.tw/*/*.js
-||www.*yetianlian.us/*/*.js
-||www.81zw*.app/*/*.js
-||www.81zw*.cc/*/*.js
-||www.81zw*.cn/*/*.js
-||www.81zw*.co/*/*.js
-||www.81zw*.com/*/*.js
-||www.81zw*.info/*/*.js
-||www.81zw*.la/*/*.js
-||www.81zw*.me/*/*.js
-||www.81zw*.net/*/*.js
-||www.81zw*.org/*/*.js
-||www.81zw*.so/*/*.js
-||www.81zw*.tw/*/*.js
-||www.81zw*.us/*/*.js
-||www.81zw.app/*/*.js
-||www.81zw.cc/*/*.js
-||www.81zw.cn/*/*.js
-||www.81zw.co/*/*.js
-||www.81zw.com/*/*.js
-||www.81zw.info/*/*.js
-||www.81zw.la/*/*.js
-||www.81zw.me/*/*.js
-||www.81zw.net/*/*.js
-||www.81zw.org/*/*.js
-||www.81zw.so/*/*.js
-||www.81zw.tw/*/*.js
-||www.81zw.us/*/*.js
+||www.*81zw.*/*/*.js
+||www.*biqu.*/*/*.js
+||www.*biquge.*/*/*.js
+||www.*bqg.*/*/*.js
+||www.*dingdian.*/*/*.js
+||www.*kbookzw.*/*/*.js
+||www.*kudushu.*/*/*.js
+||www.*luoqiu.*/*/*.js
+||www.*qishuta.*/*/*.js
+||www.*tangsanshu.*/*/*.js
+||www.*wxshuku.*/*/*.js
+||www.*yetianlian.*/*/*.js
+||www.81zw*.*/*/*.js
+||www.81zw.*/*/*.js
 ||www.biqu*.*/*/*.js
 ||www.biqu.*/*/*.js
 ||www.biquge*.*/*/*.js
@@ -22103,50 +21935,6 @@ jump.tieba.baidu.com,tieba.com,xingqu.baidu.com##.topic_list_box
 189.cn#@#.share-panel
 189.cn,vua.sh,weiyun.com,youdao.com#@#.share-link
 189.cn,zdzdm.com#@##share_list
-18av.mm-cg.com###main > #twcgUUU
-18av.mm-cg.com###primary_content > #Dfrom
-18av.mm-cg.com##.ut_ad_box
-18av.pro##.video-server > .inplayer
-18avhub.com,18avtube.com,adultwefong.com,aicoin.cn,aicoin.net.cn,avmimi.com,fsdpp.cn,ip138.com,mangahax.com,mm-cg.com,sports.qq.com,suopao.org,timecn.cn,txzqw.me,youxi.baidu.com###banner
-18avhub.com,18avtube.com,avmimi.com,mm-cg.com###friendLink
-18avhub.com,18avtube.com,mm-cg.com###partner
-18avhub.com,18avtube.com,mm-cg.com##.CN_qmvtoy
-18avinin.com##a[href^="http"]:not([href*="18avinin."]) > img[src*=".18avinin.com/wp-content/uploads/"]
-18avinin.com##a[href^="https://forms.gle/"]
-18avinin.com,sunnylife.tw###custom_html-5
-18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="20%"] > a[target="_blank"]
-18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="25%"]
-18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="33%"]
-18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="50%"]
-18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="320"]
-18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="330"]
-18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="900"]
-18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="920"]
-18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="950"]
-18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width^="72"]
-18comic.*##.modal-body > ul.pop-list
-18comic.*##.top-a2db
-18comic.*##body .bot-per
-18comic.*##div[data-height="90"][data-width="728"]
-18comic.*#?#body .bot-per
-18comic.*#@#img[style*="300px"]
-18comic.org,18comic.vip,18-comic.work#?#:-abp-has(>ins+script)
-18comic.org,18comic.vip,18-comic.work#?#:-abp-has(>script+ins)
-18comic.org,18comic.vip,18-comic.work#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#@?#:-abp-has(>script[src*=".realsrv.com"])
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#.bot-per-times
-18comic.vip##IMG[src^='//18comic.vip/media/albums/']
-18comic.vip##div[data-group^="skyscraper_"]
-18comic.vip#?#.thumb-overlay-albums > div[class][data-group^="photo_center_games_"]:has(> a[target="_blank"] > img)
-18comic.vip,18comic.org##div[data-height="250"][data-width="300"]
-18h.animezilla.com###manga-bottom
-18h.avmimi.com##body > p[align="center"]:first-child
-18h.avmimi.com##body > table[width="100%"]:nth-child(2)
-18moe.org##.alignnone[alt="恰饭广告"]
-18moe.vip##a[href^="http"]:not([href*="18moe.vip"]) > img[src*="tc.18moe.net"]
 1905.com##.mobile_ad_promote
 1905.com##.zx-pic
 1905.com##.zx-small-pic
