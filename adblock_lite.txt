@@ -32125,7 +32125,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ##a[href*=".337771.xyz"]
 ##a[href*=".337772.xyz"]
 ##a[onclick*=".337770.xyz"]
-|https://m.frgls.com/js/*.js?v=
 ||donghua.asia^
 ||haise6.top^
 ||hylaxngo.xyz^
