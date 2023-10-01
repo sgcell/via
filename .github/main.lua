@@ -17,16 +17,16 @@ end
 local function add(f,o)
   for a in ("\n"..f):gmatch("\n([^[!\n][^\r\n]+)") do
     if a:find("%+js%(") or a:find("^/^") then
-      continue
-    end
-    a=a:gsub("^https?://","||"):gsub("^://","||")
-    if not _g[a] then
-      table.insert(_g,a)
-      if o then
-        table.insert(_g.a,a)
+     else
+      a=a:gsub("^https?://","||"):gsub("^://","||")
+      if not _g[a] then
+        table.insert(_g,a)
+        if o then
+          table.insert(_g.a,a)
+        end
       end
+      _g[a]=o or 0
     end
-    _g[a]=o or 0
   end
 end
 
