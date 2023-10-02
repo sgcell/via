@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31952
-! Version: 231001_1319
+! Total Count: 31963
+! Version: 231002_1207
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -31968,3 +31968,14 @@ wololo.net,russianusa.tarima.org,lebakcyber.net,ifdreamscametrue.com,nudes7.com,
 ##iframe[src*=".jads."]
 ##img[id][height$="0001"][width="100%"][border="0"]
 ##IMG[src$='tywheying/vv2-960x80.gif']
+||999zz333zz.com^
+||aynufyns.xyz^
+||itrdqbg.xyz^
+||loccgn.icu^
+||oce.nexithrom.com^$third-party
+||vjrpnv.xyz^
+:*/static/lbsite/*/*.js?v=16$third-party
+##a[href*="&campaignType=smartpop&creativeId"]
+##a[href*="//go.bbrdbr.com/"]
+abmedia.io##.widget_media_image
+winandmac.com##.widget_custom_html
