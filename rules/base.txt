@@ -43272,3 +43272,57 @@ wololo.net,russianusa.tarima.org,lebakcyber.net,ifdreamscametrue.com,nudes7.com,
 ##a[href*="//go.bbrdbr.com/"]
 abmedia.io##.widget_media_image
 winandmac.com##.widget_custom_html
+||16m.cc^$third-party
+||cwgshkz.cn^
+||czlkhvs.cn^
+||desac2.icu^
+||jwppgyt.cn^
+||sjkdbvjksbv.com^
+||xn--dpq21dn8asxam8v16q0j5c.com^
+ciyuanshe6.com##body > div[id] > div[class="fixed"],body > div[id] > div[class*="_"],[style=" top: 0; left: 0; width: 100%; height: 120px; z-index: 9999;"]
+/top-ad-
+/top-ad.
+/top-ad/*
+/top-ad_
+/top-ads.
+/top_ad.
+/top_ad/*
+/top_ad_
+/top_ads.
+/top_ads/*
+/top_ads_
+/top_adv_
+/topad.
+/topad/*
+/topad3.
+/topadImg.
+/topad_
+/topadbg.
+/topadfooter.
+/topadheader.
+/topads.$domain=~topads.me
+/topads/*
+/topads1.
+/topads2.
+/topads3.
+/topads_
+/topadv.
+/topadvert.
+/topleftads.
+/topperad.
+/toprightads.
+/tops.ads.
+/torget_ads.
+##.sp_ad_box_top
+##a[href*="xn--dpq21dn8asxam8v16q0j5c.com"]
+##body > div[class$="h"][style="bottom: 135px;"]
+@@||gboku.com^$generichide
+ablesci.com##.fly-panel img[src*="-alipay-autumn-hongbao.png"]
+ablesci.com#?#.able-container-body-right > .fly-panel:has(> div > img[src*="-alipay-autumn-hongbao.png"])
+abmedia.io,appinn.com,carrotchou.blog,landiannews.com,woniuyulew.com,zhain8.com##.widget_media_image
+baidu.com##[data-video-player='true']
+baidu.com#$#.ec_wise_ad { position: absolute !important; left: -3000px !important; }
+instacart.com#$#hide-if-contains-visible-text '/(\\s)*sored/' li 'li div[aria-label="Product"]'
+iyf.tv##.video-player > div.ng-star-inserted > div#PB
+ruyo.net,winandmac.com##.widget_custom_html
+so.toutiao.com##.relative.pointer-events-none
