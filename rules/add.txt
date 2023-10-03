@@ -1,0 +1,2 @@
+!增加规则
+cn.bing.com###bnp_rich_div
