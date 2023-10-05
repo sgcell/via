@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31987
-! Version: 231004_1020
+! Total Count: 31998
+! Version: 231005_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32004,3 +32004,14 @@ iyf.tv##.ss-ctn
 myd666.tv##.module-blocklist
 myd666.tv#?#.module-item:-abp-has(>.module-item-titlebox>a[href*="/download/"])
 phimvuihd.org#$#override-property-read urlAds ''
+||88lajs3.com^
+||anhlnnm.cn^
+||ddvoht.xyz^
+||dhgfhedxx.xyz^
+||tcgaqh.icu^
+||windowszj.net/d/js/list/click
+||xxkswdf.icu^
+instacart.com#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+mfa.gov.cn,fmprc.gov.cn#@#.adbox2
+toptruyenne.com#$#abort-current-inline-script Promise instance
+truyenqqvn.com#$#abort-current-inline-script document.addEventListener window.open
