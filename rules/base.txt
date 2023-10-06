@@ -45026,3 +45026,45 @@ instacart.com#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contai
 mfa.gov.cn,fmprc.gov.cn#@#.adbox2
 toptruyenne.com#$#abort-current-inline-script Promise instance
 truyenqqvn.com#$#abort-current-inline-script document.addEventListener window.open
+||273knt.xyz^
+||gmx27.top^
+||gmx28.top^
+||gmx30.top^
+||huhwllvk.xyz^
+||hwuogmusthxfpk.xyz^
+||jndxsuy.xyz^
+||kvskknklssv.com^
+||liktufmruav.com^$third-party
+||lnxpdj.xyz^
+||lxznbz.xyz^
+||mads7.icu^
+||mcds9.icu^
+||mwfyab.icu^
+||pemsrv.com^$third-party
+||pqjeoqa.cn^
+||rkgwzfwjgk.com^$third-party
+||templates.stroeerdigital.de/[PROD]_MobileExpandableStickyFooter.min.js
+||vdggsd005.com^
+||vdggsd006.com^
+||xmvmir.icu^
+||xvzfyra.xyz^
+||yepgdita.xyz^
+||yhtpsy8888.cc^
+.php?zoneid=*&var=*$xmlhttprequest
+/i/npage/*/code.js$third-party,script
+://a.*srv.com^$script,third-party
+##a[href*="//live.jzmsg.cn"][href$=".apk"]
+##a[href*="//t16-fghgdf.com"][target="_blank"]
+##a[href="https://kds03.net"][target="_blank"]
+##img[src*="//tupian888.bj.bcebos.com/"]
+@@||melon.rayyqoj.xyz/videos
+18avinin.com,27ka.cn,sunnylife.tw###custom_html-5
+27ka.cn##a[href*="/go/"]
+audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
+bilibili.com#?#.bili-video-card:has(> div.bili-video-card__wrap[style="display: none !important;"])
+bilibili.com#?#.feed-card:has(> div.bili-video-card > div.bili-video-card__wrap[style="display: none !important;"])
+fmprc.gov.cn,mfa.gov.cn#@#.adbox2
+tw.news.yahoo.com###mrt-node-Lead-1-Ad
+tw.news.yahoo.com###sda-LDRB-iframe
+tw.news.yahoo.com###sda-LREC2-iframe
+tw.news.yahoo.com###sda-WPS-iframe
