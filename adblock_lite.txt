@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32040
-! Version: 231006_1019
+! Total Count: 32089
+! Version: 231007_1017
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32057,3 +32057,52 @@ tw.news.yahoo.com###mrt-node-Lead-1-Ad
 tw.news.yahoo.com###sda-LDRB-iframe
 tw.news.yahoo.com###sda-LREC2-iframe
 tw.news.yahoo.com###sda-WPS-iframe
+||94lm.com^
+||byjykj.xyz^$third-party,image
+||cuvtnzv.cn^
+||gmx29.top^
+||liuyi22.cn^
+||lqxbkqdtvtdhw.xyz^
+||lwwlkj1.cn^
+||mmvjuti.cn^
+||noafoaji.xyz^
+||qauksl.icu^
+||quzmtpxw.xyz^
+||rkds10.icu^
+||thboxp.xyz^
+||vdggsd007.com^
+||vivienjumpe.com^
+||vsping.com/website/ads?
+||vxdpmxw.xyz^
+/laojiuhengfu*.gif$image,third-party
+##[id="bannerCtrl"].source_container.swiper-wrapper
+##[id^="common"].bf_qy.common
+##[onclick][style="position:absolute;top:0;right:0;z-index:2147483647;"],[ontouchstart][style="position:absolute;top:0;right:0;z-index:2147483647;"]
+##a[class^="cvbcvxvb"][onclick="this.click();"]
+##div[class="bf_btn"] > [class="copy_div_btn"]
+##img[src$="-960x100.gif"]
+##img[src$="-960x60.gif"]
+##img[src$="-960x80.gif"]
+##img[src*="/laojiuhengfu"][src$=".gif"]
+##img[src^="https://sbb.bbb.byjykj.xyz"]
+##span[onclick^="window"][onclick$=".RD();"]
+@@://*.*.xyz/videos/*-*-*-*/cover
+@@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me
+@@||cre.dp.sina.cn^
+@@||gk.sina.cn^
+@@||mix.sina.com.cn^
+$script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com
+cnbeta.com.tw##[class^="cbv"]
+cnbeta.com.tw##div[id^="cbh"]
+etsy.com#$#hide-if-contains-visible-text '/[aA]d(\\s)*by/' li 'li[class] div > :is(div, p)' 'width: /^[0-9]px/'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::div[@id][@class][not(@id="store-wrapper") and not(@id="js-app")]'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section[not(@id="store-wrapper") and not(@id="js-app")]'
+instacart.com#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ss")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+vailonxx.com#$#abort-current-inline-script jQuery window.open
+viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenus.com,yurineko.net,vlxyz.tv#$#abort-current-inline-script WebAssembly instantiate
+vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
+windowszj.net##.g_slide_title > .feedback
+xoilac85.tv##.modal.fade.show
+xoilac85.tv#$#abort-current-inline-script jQuery overlay
+xoilac85.tv#$#abort-current-inline-script jQuery popupBanners
+xoilac85.tv#$#abort-on-property-read adsRedirectPopups
