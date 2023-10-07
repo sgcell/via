@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 30772
-! Version: 231007_1240
+! Total Count: 30755
+! Version: 231007_1250
 ! Homepage: https://sgcell.github.io/via/
+
 ! →→→→域名规则 起始←←←← !
 ||m.frgls.com/js/*.js?v=
 ||*ggua.xyz^$third-party
