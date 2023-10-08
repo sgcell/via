@@ -52,6 +52,7 @@ Try(arg[1]=="push" and Read("README.md"),function(f,x)
       print("Updated:",os.date("!%H:%M",x))
       os.exit(true,true)
     end
+    _g.ra,_g.rd=f:match("（ (%d+)%-(%d+):%d+ ）")
    else
     print("Err: No time")
   end
@@ -66,8 +67,8 @@ end)
 
 Try(Read("adblock_lite.txt"),function(f)
   add(f)
-  _g.c=f:match("! Total Count: (%d+)")
-  _g.s=f:match("(! →→→→.+)$")
+  _g.c=tonumber(f:match("! Total Count: (%d+)"))
+  _g.s=f:match("(! →→.+)$")
 end)
 
 Try(Read("rules/dis.txt"),function(f)
@@ -103,20 +104,22 @@ _g.tb=os.date("%y%m%d_%H%M",_g.t)
 table.insert(_g,1,"!规则记录")
 io.open("rules/base.txt","w"):write(table.concat(_g,"\n")):close()
 if #_g.d>0 then
-  table.insert(_g.d,1,"!"..(_g.ta))
-  io.open("rules/dis.txt","a"):write(table.concat(_g.d,"\n").."\n"):close()
+  io.open("rules/dis.txt","a"):write("!"..(_g.ta).."\n"..table.concat(_g.d,"\n").."\n"):close()
 end
 
+_g.a,_g.d=#_g.a,#_g.d
 if _g.s and _g.c then
   _,_g.t=_g.s:gsub("\n[^[!\n][^\r\n]+","")
-  if _g.c~=tostring(_g.t) then
+  if _g.c~=_g.t then
     _g.h=true
   end
-  _g.c=_g.t+#_g.a
+  _g.c=_g.t+_g.a
 end
 
-if _g.h or #_g.a>0 or #_g.d>0 then
-  _g.c,_g.h=_g.c or #_g.a,Read("coolurl.user.js")
+if _g.h or _g.a>0 or _g.d>0 then
+  _g.c,_g.h=_g.c or _g.a,Read("coolurl.user.js")
+  _g.ra=_g.a+(tonumber(_g.ra) or 0)
+  _g.rd=_g.d+(tonumber(_g.rd) or 0)
   _g.h=[[脚本&拦截规则（轻量浏览器）
 
 欢迎提交反馈 [【赞助】](http://top-tech.cc/pay)
@@ -130,7 +133,7 @@ if _g.h or #_g.a>0 or #_g.d>0 then
 # 拦截规则
 
 - [【 混合规则（轻量版） 】](https://sgcell.github.io/via/adblock_lite.txt)  
-]]..string.format("  更新： %s （ %s-%s:%s ）  \n",_g.ta,#_g.a,math.max(#_g.d-1,0),_g.c)..[[
+]]..string.format("  更新： %s （ %s-%s:%s ）  \n",_g.ta,_g.ra,_g.rd,_g.c)..[[
   适用于轻量浏览器
 
 ## 上游规则
