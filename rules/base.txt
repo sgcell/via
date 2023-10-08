@@ -45166,3 +45166,4 @@ sina.cn##.qr_box
 ||irtefs.xyz^
 ||nhcdn.cn^
 ||xxfphsg.cn^
+www.bing.com###bnp_rich_div
