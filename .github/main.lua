@@ -51,8 +51,9 @@ Try(arg[1]=="push" and Read("README.md"),function(f,x)
     if x>0 then
       print("Updated:",os.date("!%H:%M",x))
       os.exit(true,true)
+     elseif x<-28800 then
+      _g.ra,_g.rd=f[6],f[7]
     end
-    _g.ra,_g.rd=f[6],f[7]
    else
     print("Err: No time")
   end
