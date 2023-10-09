@@ -45,14 +45,14 @@ Try(Read(_g.s:format("","?per_page=99&status=completed"),true),function(f,x,y)
 end)
 
 Try(arg[1]=="push" and Read("README.md"),function(f,x)
-  f={f:match("(%d%d%d%d)%-(%d%d)%-(%d%d) (%d%d):(%d%d)")}
+  f={f:match("(%d%d%d%d)%-(%d%d)%-(%d%d) (%d%d):(%d%d) （ (%d+)%-(%d+):%d+ ）")}
   if f[1] then
     x=os.time{year=tonumber(f[1]),month=tonumber(f[2]),day=tonumber(f[3]),hour=tonumber(f[4]),min=tonumber(f[5])}-os.time()
     if x>0 then
       print("Updated:",os.date("!%H:%M",x))
       os.exit(true,true)
     end
-    _g.ra,_g.rd=f:match("（ (%d+)%-(%d+):%d+ ）")
+    _g.ra,_g.rd=f[6],f[7]
    else
     print("Err: No time")
   end
