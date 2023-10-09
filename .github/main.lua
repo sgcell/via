@@ -16,7 +16,7 @@ local function Try(a,b,c)
 end
 local function add(f,o)
   for a in ("\n"..f):gmatch("\n([^[!\n][^\r\n]+)") do
-    if a:find("%+js%(") or a:find("^/^") then
+    if a:find("%+js%(") or a:find("\\") then
      else
       if not _g[a] then
         table.insert(_g,a)
