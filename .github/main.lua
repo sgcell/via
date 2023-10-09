@@ -107,18 +107,18 @@ if #_g.d>0 then
   io.open("rules/dis.txt","a"):write("!"..(_g.ta).."\n"..table.concat(_g.d,"\n").."\n"):close()
 end
 
-_g.a,_g.d=#_g.a,#_g.d
+_g.an,_g.d=#_g.a,#_g.d
 if _g.s and _g.c then
   _,_g.t=_g.s:gsub("\n[^[!\n][^\r\n]+","")
   if _g.c~=_g.t then
     _g.h=true
   end
-  _g.c=_g.t+_g.a
+  _g.c=_g.t+_g.an
 end
 
-if _g.h or _g.a>0 or _g.d>0 then
-  _g.c,_g.h=_g.c or _g.a,Read("coolurl.user.js")
-  _g.ra=_g.a+(tonumber(_g.ra) or 0)
+if _g.h or _g.an>0 or _g.d>0 then
+  _g.c,_g.h=_g.c or _g.an,Read("coolurl.user.js")
+  _g.ra=_g.an+(tonumber(_g.ra) or 0)
   _g.rd=_g.d+(tonumber(_g.rd) or 0)
   _g.h=[[脚本&拦截规则（轻量浏览器）
 
