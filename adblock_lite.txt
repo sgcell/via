@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31021
-! Version: 231011_1018
+! Total Count: 31130
+! Version: 231012_1017
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -31037,3 +31037,112 @@ zhujicankao.com##.topsss-111
 zhujicankao.com##div[style*="padding:0px"] > a[target="_blank"] > img
 zhujicankao.com#?##ez-toc-container > div.ez-toc-right-container:has(> div.ez-toc-rigth > ins.adsbygoogle)
 ||magsrv.com^
+||1bctkn.xyz^
+||axutongxue.*/js/yes.
+||banquetunarmedgrater.com^$script
+||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
+||crhabkd.cn^
+||dqzehgha.xyz^
+||ebmlsvw.cn^
+||gixgav.icu^
+||gmx20.top^
+||gmx22.top^
+||gmx26.top^
+||hcqumrjbx.xyz^
+||jmcomic1.me/exads
+||jmcomic1.me/static/resources/lp.php
+||jmcomic1.me/static/resources/old/images/AD/
+||jvjmjt.xyz^
+||kunyun*.com/xiwang/fumeiti.js
+||mamecn.com/style/pcjs/bgimg.
+||nangongmall.com^
+||njtbiml.xyz^
+||thirzasandra.com^$third-party
+||vdggsd012.com^
+||wendypha.com^$third-party
+||zents2.top^
+douban.com##iframe[src*="//at4.doubanio.com"]
+/advertisers.js
+###ADbox
+###AdBox2
+###ad-box
+###ad-message
+###ad900
+###adBlockBanner
+###adBlockerAlert
+###adBody01
+###adBody02
+###adBody03
+###adBody04
+###adBody06
+###adPopUpContainer
+###adUn_1
+###adUn_2
+###adUn_3
+###ad_1
+###ad_banner
+###ad_bottom
+###ad_left
+###ad_lightbox
+###ad_link
+###ad_right
+###ad_text:not(textarea)
+###adb-pop
+###adbd
+###adblock-in-browser
+###adblock-wrapper
+###adblockWarningPopup
+###adblock__container
+###adblock_popup
+###adblocker
+###adblockz_alert
+###adbox
+###adbox--hot_news_ad
+###adbox--page_bottom_ad
+###adbox--page_top_ad
+###adbox-inarticle
+###adbox-topbanner
+###adbox1
+###adbox2
+###adbox_content
+###adbox_right
+###adjs_id
+###adleft
+###adright
+###ads_inner
+###ads_left
+###ads_right
+###ads_warning
+###adsense
+###adtoniq-msgr-bar
+###advert_1
+###advertisement_box
+###advt
+###sponsored_links
+##.adbox250
+##.adbox900
+##[class*="adbox"]
+##a[target="_blank"][href="/adjump/acg_show_right.html"]
+##body > [style$="background-size: 407px 127.188px !important;"]
+##body > div[class][style="display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 95px; top: 101px;"]
+##img[alt$="横幅"][src$=".gif"]
+##img[alt*="88棋牌"][src$=".gif"]
+##img[alt*="bet365"][src$=".gif"]
+##img[alt*="四季体育"][src$=".gif"]
+##img[alt*="新葡京"][src$=".gif"]
+##img[alt*="棋牌游戏hf"][src$=".gif"]
+18-comic.work,18comic.org,18comic.vip##.div_sticky2
+8684.cn,8684.com,iyxdm.com,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
+axutongxue.com,axutongxue.net###ccacc
+eprice.com.hk##div[id^="eprice-div-gpt-ad-"]
+instacart.com#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ss")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ap-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+jmcomic1.me##div[style^="max-height: 600px"]
+jmcomic1.me#%#//scriptlet('remove-node-text', '#text', '中間廣告')
+jmcomic1.me#?#.container > div.row:has(ins[data-width="300"])
+m.jd.com##DIV.modal__mask
+m.jd.com##DIV.modal__wrap
+nivod4.tv,nivod5.tv##.qy20-h-carousel__li:nth-child(-n+2)
+yisu.com##.coupon-get-link
+zhujicankao.com##div[style$="padding:0px"]
+zztt24.com##.event-notice
+zztt24.com##.gotoclick
