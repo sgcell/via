@@ -45328,3 +45328,54 @@ yisu.com##.coupon-get-link
 zhujicankao.com##div[style$="padding:0px"]
 zztt24.com##.event-notice
 zztt24.com##.gotoclick
+||a4bj6.xyz^
+||bollenhurkle.com^
+||exemptambientcream.com^
+||fuyime.com^$document
+||fuyime.com^$~third-party
+||gmx21.top^
+||haise3.top^
+||imrvyop.cn^
+||kshrsf.icu^
+||lwmzoaf.cn^
+||mqrupjsm.xyz^
+||newpgqnfapkamg.xyz^
+||ocwdkp.icu^
+||qwjtdcl.cn^
+||rcnldz.xyz^
+||rslkhj.xyz^
+||sentcss.com/get/showcase/
+||vdggsd013.com^
+||y341i.xyz^
+||zbxtcwi.xyz^
+###mini-ad
+###mobile-ad
+###mobile-adhesion
+###mobile-ads-ad
+###mobile-footer-ad-wrapper
+###mobileAdContainer
+###mobile_ad_main
+###mobile_ads_100_pc
+###mobile_ads_block
+###mod-tafad
+###mod_ad
+###mod_ad_top
+###modal-ad
+##.bottom-mobile-ad
+##.mobile-ad-negative-space
+##.mobile-ad-placeholder
+##.mobile-ad-slider
+##.mobile-ads
+##body > div[class][style="display: block; width: 100%; height: 135px;"]
+##body > div[class][style^="display: block; width: 100%; left: 0px; position: fixed; z-index: 21474"]
+##div[class] > div[class][style^="box-sizing: border-box; position: relative; left: 0px; z-index: 2147"]
+##iframe[src^="https://creative."][src*="/widgets/"]
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|webhd.cc|xyg688.com|zzzzz688.com
+dualeotruyenpk.com#$#abort-current-inline-script document.addEventListener popunder
+expedia.co.uk,expedia.de,expedia.es,expedia.fr,expedia.ie,expedia.it,expedia.dk,expedia.co.id,expedia.co.in,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.com.hk,expedia.com.my,hotels.com,orbitz.com,ebookers.com,wotif.com,cheaptickets.com,travelocity.com#$#hide-if-matches-xpath './/a[contains(@href,"&trackingData")]/ancestor::div[@class="uitk-spacing uitk-spacing-margin-blockstart-three"]'
+expedia.com##[data-meso-viewed]
+instacart.com#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ss")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ap-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-bp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+iyf.tv##.bb > .ng-star-inserted
+v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY', '')
+v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START', '')
+viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenpk.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip#$#abort-current-inline-script WebAssembly instantiate
