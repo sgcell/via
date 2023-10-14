@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31181
-! Version: 231013_1023
+! Total Count: 31221
+! Version: 231014_1016
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -31197,3 +31197,43 @@ iyf.tv##.bb > .ng-star-inserted
 v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY', '')
 v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START', '')
 viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenpk.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip#$#abort-current-inline-script WebAssembly instantiate
+||aueajkn.cn^
+||e.1bctkn.xyz^$third-party
+||gizlnr.com^
+||head4.net/ad_
+||highwaycpmrevenue.com^$third-party
+||ionjkcj.cn^
+||m.airporthaber.com/banners/
+||nerydw.xyz^
+||rexxtourist.com^$document
+||rexxtourist.com^$~third-party
+sewen.life,sewen.net,sewen.com,sewen.buzz,sewen.xyz,sewen.top,sewen4.top##img[src*=".xyz/"][src*="16"],[style*="bottom: 0px; left: 0px; z-index:"][style*="100vw;"],.hotcmd-box,.links-top,table[border="1"]
+/?cat=*&groupds=*&clientId=*&productId=*&tracking=*$document
+/?cat=*&groupds=*&clientId=*&productId=*&tracking=*$~third-party
+/ad/gudingwei.js$~third-party,script
+://e.*.xyz/apps/sdk$third-party
+##a[href*="//app.kmtgsopq.com"][target="_blank"]
+##a[href*="//y3e33.top"][target="_blank"]
+##a[href*="/?agentId="][target="_blank"]
+##a[href][target="_blank"] > img[src*=".cos.ap-"][src*=".myqcloud.com/"][src$=".gif"][alt]
+##a[href^="http://2kkfof.vip"]
+##A[href='/iwagbwfiwehaeyh/']
+##IMG[src*='tupian.guanggao']
+123pan.com##.advBanner
+aicoin.net.cn,bccn.net,douyuex.com,hkepc.com,iviewui.com,juejin.cn##.advertisement
+instacart.com#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ss")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ap-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ep-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+nettruyenai.com#$#abort-current-inline-script Promise break;case
+ruanyifeng.com##p[style="text-align:center;font-size: 16px;"]
+www.123pan.com##DIV.app-adv-container
+yiyouliao.com##.yyl-weiruan-news-ad-item
+yiyouliao.com#?#.yyl-weiruan-ads-list-item:has(> div#small1)
+yiyouliao.com#?#.yyl-weiruan-video-list-item:has(> div#small2)
+||g13eyx.com^
+||gmx16.top^
+||haise5.top^
+||llblwzg.xyz^
+||oprece.xyz^
+||rzflhxn.cn^
+||smlpcz.icu^
+||vdggsd014.com^
+||vgjaxnuw.xyz^
