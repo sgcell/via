@@ -45467,3 +45467,28 @@ zhenniu.vip#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 ||bgbqfqwi.xyz^
 ||vdggsd015.com^
 ||xqgduov.cn^
+||0efghij.com^
+||0ghijkl.com^
+||0mnopqr.com^
+||0yzabcd.com^
+||aaknmt.icu^
+||aniede.xyz^
+||cntc8.icu^
+||gmx15.top^
+||kwtgntyu.xyz^
+||ovfvkfc.xyz^
+||phwrju.xyz^
+||rkds5.icu^
+||vdggsd016.com^
+||wqvbuj.icu^
+||xdfdqce.xyz^
+||xrcembm.cn^
+eprice.com.hk##.ad-end-article
+eprice.com.hk##.article__content > div[style*="text-align"]
+eprice.com.tw##.ad-320x100
+eprice.com.tw##.ad-970x250
+eprice.com.tw##.popup-adv
+eprice.com.tw##.section-content > div[style*="text-align"]
+hcbbs.com###framec9562h
+hcbbs.com###fwin_dialog
+||idd1.com^
