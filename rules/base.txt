@@ -45529,3 +45529,43 @@ xoivoa.site,vaoroi13.online#$#override-property-read adsPlayer '';override-prope
 xuongphim18z.com,phimtopz.com,truyensieuhay.com,tvchill.org,quangcaoyenbai.com,khoaiphim.com,phimmoi.im,phimbom.net#$#abort-on-property-read document.cookie
 ||xanimu.com/*.php$domain=xanimu.com
 ||xanimu.com/ablck$domain=xanimu.com
+||1.jiangzheba.com^
+||6gcstb.xyz^
+||bjtgds.xyz^
+||chrtds.xyz^
+||cmdcdacq.xyz^
+||dpj0uvy.icu^
+||dumeia.cn^
+||gmx11.top^
+||gmx12.top^
+||iujlwn.icu^
+||mcds7.icu^
+||mfnfylx.xyz^
+||whdwydt.cn^
+||xg6hb.xyz^
+babesxworld.com##img[onclick*="spons"]
+babesxworld.com#$#abort-on-property-read ExoooLoooader
+babesxworld.com,lesbian8.com,older-women-porn.com,pifansubs.com,pimpandhost.com,silkengirl.net#$#abort-on-property-read adProvider
+gaytxxx.com,transtxxx.com,txxx.com#$#abort-current-inline-script adver
+gaytxxx.com,transtxxx.com,txxx.com#$#abort-current-inline-script setTimeout hommy.mutation.mutation
+gaytxxx.com,transtxxx.com,txxx.com#$#abort-on-property-read jwplayer.utils.Timer
+gaytxxx.com,transtxxx.com,txxx.com#$#hide-if-matches-xpath './/a[@href][text()="Advertising"]/ancestor::div[contains(@class,"undp")]'; hide-if-matches-xpath './/div[@id][@class]/parent::div[@class]/ancestor::div[@class="suggestion"]'; hide-if-matches-xpath './/div[@id][@class]/noscript/iframe[@width][@height]/ancestor-or-self::div[3]';
+hclips.com#$#abort-on-property-write adLoaded
+hclips.com#$#hide-if-matches-xpath './/*[contains(text(),"Advertisement")]/parent::div/ancestor::div[@class="right"][1]'
+holyphim.com#$#abort-current-inline-script window.addEventListener window.open
+lesbian8.com#$#hide-if-matches-xpath './/div[contains(@class,"pignr")]/div[@style][contains(text(),"Advertisement")]/parent::div/ancestor::div[contains(@class,"sponsor") or contains(@class,"table")][1]'; hide-if-matches-xpath './/span[contains(text(),"Ad")]/ancestor::div[contains(@class,"pignr")][1]';
+lesbian8.com,older-women-porn.com,pimpandhost.com,silkengirl.net#$#prevent-listener getexoloader; abort-on-property-read ExoLoader; abort-on-property-read ExoLoader.addZone; abort-on-property-read ExoLoader.serve;
+pimpandhost.com##div[class$="aablock_yes"]
+silkengirl.net##a[href*="jaxofuna.com"]
+silkengirl.net#$#hide-if-matches-xpath './/a[@target][contains(@href,"playboy.com")]/img[@alt="playboy.com"]/ancestor-or-self::div[@class="block_row"][1]'
+tubesafari.com#$#override-property-read initialize_page noopFunc
+tubesafari.com,youdbox.com#$#abort-on-property-read encodeURIComponent
+view.inews.qq.com##div[class^="infinite-comment-list_subText"]
+view.inews.qq.com##div[class^="interaction-bottom_interaction"]
+view.inews.qq.com##div[class^="main-video_"]
+view.inews.qq.com##div[class^="new-recommend_wrapper"]
+xw.qq.com###opeApp
+||hcjs.nv7s.com/xif*/*.js$domain=hclips.com
+||older-women-porn.com/black-credit-71cc^$domain=older-women-porn.com
+||tubesafari.com/*/new_popunder.js$domain=tubesafari.com
+||txxx.com/*x/*.js$domain=gaytxxx.com|transtxxx.com|txxx.com
