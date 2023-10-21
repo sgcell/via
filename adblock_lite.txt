@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31464
-! Version: 231020_1019
+! Total Count: 31495
+! Version: 231021_1016
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -31480,3 +31480,34 @@ xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisemen
 ||pushpad.xyz^$third-party,domain=xnxx-sexfilme.com
 ||xnxx-sexfilme.com/*==/^$domain=xnxx-sexfilme.com
 ||xnxx-sexfilme.com/*froload.js?v=2^$domain=xnxx-sexfilme.com
+||gelbjvl.cn^
+||nbxymdy.cn^
+||omzxutfm.com^
+||pdweoyw.cn^
+||yeduxiaoshuoo.com/lokedpgdjs$script
+||zzyy19.top^
+3g.163.com,m.163.com##button.floatMenu-logo
+3g.163.com,m.163.com##div.article-payVip-recommend
+3g.163.com,m.163.com##div.backflow-floating
+3g.163.com,m.163.com##section.recommend.js-recommend
+3g.163.com,m.163.com##span.s-openApp
+yeduxiaoshuoo.com##div[class$="anye"][onclick$="anye()"]
+##DIV.bottom-ad.hidden-lg
+/dj*ll5c20ff.js
+51cto.com##.right-fixadv
+7k7k.com###flashAds
+7k7k.com##.pendant
+animevietsub.fan#$#abort-current-inline-script document.documentElement break;case
+bilibili.com##.activity-slider[style="width: 1220px;"]
+fembed.com,femax20.com,m.blogtruyen.vn,viettoons.tv,vinaurl.net,animet.net#$#abort-on-property-read open
+instacart.com#$#hide-if-matches-xpath './/span[text()]/preceding::div[@aria-hidden="true"]/preceding::source[@media]/following-sibling::img[contains(@alt,"Sponsored")]/ancestor::*[@id][@class][1]'
+iyf.tv#?#.video-player + div.ps > div:has(div.gg-tips-text)
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.im,phimbom.net#$#abort-on-property-read document.cookie
+viet69.tube,ungtycomicsvip.com,truyengihotday.net,dualeotruyenpk.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip,vl2.xvideos98.pro#$#abort-current-inline-script WebAssembly instantiate
+||0ns32h.com^
+||etrvfx.xyz^
+||sofunlib.com/assets/publish
+||tinghao8.com/assets/publish/
+||ulyuom.xyz^
+||viewyentreat.guru^
+||ytqlyw.xyz^
