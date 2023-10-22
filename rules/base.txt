@@ -45693,3 +45693,26 @@ viet69.tube,ungtycomicsvip.com,truyengihotday.net,dualeotruyenpk.com,yurineko.ne
 ||ulyuom.xyz^
 ||viewyentreat.guru^
 ||ytqlyw.xyz^
+||44jui.top^
+||asfybkiy.xyz^
+||bzvhgbr.xyz^
+||faxffjo.com^
+||foizico.cn^
+||fptdxkm.com^
+||hchuviq.cn^
+||klfbnklddfbkn.com^
+||m05ib.xyz^
+||pemsrv.com^
+||usxuyr.icu^
+||zzyy17.top^
+||zzyy20.top^
+javmenu.top,javmenu03.top,javmenu02.top##.common_banner
+/js/ads.js?v=
+/splash.php?cat=&idzone=*
+##.common_banner[style="width: 100%;"] > a[target="_blank"][style="width: 375px; height: 75px; max-width: 100%; max-height: 75px; display: block; margin: 0px auto; overflow: hidden;"]
+##a[href*="/?agent="][target="_blank"]
+##img[src*="//api.promptsgod.com/"][style*="width: 100%;"]
+naozhong.net.cn###pnl-ne0n
+||clcmdie.com^
+||quspga.xyz^
+||sqevnrb.com^
