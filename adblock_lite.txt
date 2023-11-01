@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31676
-! Version: 231031_1020
+! Total Count: 31707
+! Version: 231101_1023
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -31692,3 +31692,34 @@ olevod.tv##a[href^="https://www.yywhale.com"]
 sohu.com#?##allseeList > .allsee-item.bd-wrap:has(> div > script)
 sohu.com#?#.news-wrapper > .news-box:has(> div[id^="taboola-below-article-widget"])
 viet69.tube,ungtycomicsvip.com,truyengihotday.net,dualeotruyenpk.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip,vl2.xvideos69.xxx,animehay.city#$#abort-current-inline-script WebAssembly instantiate
+||3562wsgkbcm.xyz^
+||ads-sdk.nianticlabs.com^
+||eejwvwoo.xyz^
+||estixfl.cn^
+||njrnwan.cn^
+||olelive.com/v1/pub/index/anchor/check/pc/e?
+||ptdofj.xyz^
+||unidict.cn^
+||vdggsd001.com^
+||vrnrpzy.xyz^
+||ycgkol.icu^
+.com:7891/stats$third-party
+115.com##li#js_common_act-enter
+423down.com##.entry > p[style^="color:red"]
+@@||assets.tingfm.com/wp-content/themes/radio-hub/static/js/adpro.js$domain=tingfm.com
+@@||poedb.tw^*ad$script,~third-party
+achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
+achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
+axutongxue.com,axutongxue.net###qyuataaa
+instacart.com#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ss")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ap-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ep-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-bp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-cp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-dp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-gp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-hp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ip-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+netfly.tv##[style^="display: flex; justify-content:"]
+pcbeta.com#?##toptb ~ #wp > *:not(div):not(style):not(ul):not(script) + div[class][id]:has(div[style="display:none"]):has(script:contains(window.slotbydup))
+poedb.tw###head_toolbar + .text-center
+tingfm.com#%#//scriptlet('set-constant', 'can_run_ads', 'true')
+track718.com##.track-adsense-ad
+track718.com##.track-search-ad
+viet69.tube,ungtycomicsvip.com,truyengihotday.net,dualeotruyenpk.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip,vl2.xvideos69.xxx,animehay.city,vlxx.moe#$#abort-current-inline-script WebAssembly instantiate
+||88la.la^
+||bvsfv6.com^
+||feq853.com^
+||iikrmw.xyz^
