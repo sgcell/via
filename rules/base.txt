@@ -46041,3 +46041,37 @@ viet69.tube,ungtycomicsvip.com,truyengihotday.net,dualeotruyenpk.com,yurineko.ne
 ||bvsfv6.com^
 ||feq853.com^
 ||iikrmw.xyz^
+||cgqwgv.icu^
+||februarylovestory.com^$third-party
+||fluhmmr.cn^
+||kjdbcjkmc.com^
+||nbycjpo.cn^
+||nubcdaqa.xyz^
+||pcjx365.com/kpimg/*.gif
+||shabby-constant.com^$third-party
+||srlhgo.cn^
+||vdggsd002.com^
+||ynulcpt.cn^
+||zlncvn.xyz^
+amateur8.com,its.porn##.rmp-container
+news.heytapdownload.com##[class^="oppo-cec-new"]
+nsfwr34.com##body > div[id][class]:has(img[src*="-ads-block-detector"])
+sxyprn.net##.tbd,.cbd
+###apprecom1.apprecom
+###apprecom2.apprecom
+###rmp-ad-click-id
+##.rmp-ad-container
+##[class$="ad-container"]
+##a[href*="//go.cambaddies.com/"]
+##iframe[src*="//"][src*="&campaign"][src*="/?"][src*="="][src*="="][src*="="]
+##iframe[src*="//chaturbate.com/"]
+##iframe[src*="//go.static-srv.com/"]
+##iframe[src^="/frd5/s/s/su.php?"]
+##iframe[width][height][src*="/s/s/su.php?"][src*="https%3A"]
+@@||realsrv.com/video-outstream.js$domain=chutlunds.com
+apkpure.com,coolapk.com#@#[class$="ad-box"]
+gaoqing888.com##.wp-card > a[target="_blank"]
+||elinvarpayola.com^
+||gmxvmvptfm.com^
+||rkgwzfwjgk.com^
+||statcounter.com^
