@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31714
-! Version: 231102_1019
+! Total Count: 31730
+! Version: 231103_1020
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -31730,3 +31730,19 @@ gaoqing888.com##.wp-card > a[target="_blank"]
 ||gmxvmvptfm.com^
 ||rkgwzfwjgk.com^
 ||statcounter.com^
+||bfbchr.xyz^
+||gaoqing888.com/img/icmarkets.
+||gmx33.top^
+||hjnjjcw.xyz^
+||hvpard.xyz^
+||pfrbnl.xyz^
+||qy1.ru/data/game/
+||vdggsd003.com^
+||wutsldsk.xyz^
+||ybrbdft.xyz^
+/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|kiss-anime.ws|readcomicon
+423down.com##.entry > p[style$="center;"]
+gaara-fr.com###ga-skin-top[Adblock Plus 3.1]
+gz0668.com##.deanad
+tiku.baidu.com##.to-app
+tiku.baidu.com##.wap-bottom-op
