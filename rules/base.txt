@@ -46091,3 +46091,22 @@ gaara-fr.com###ga-skin-top[Adblock Plus 3.1]
 gz0668.com##.deanad
 tiku.baidu.com##.to-app
 tiku.baidu.com##.wap-bottom-op
+||*-hb-bid-feedback.mtgglobals.com^
+||cammak.xyz^
+||cklithuw.xyz^
+||egadfe.xyz^
+||eglizqf.cn^
+||fenem.top^
+||ktvtxir.xyz^
+||pptclb.xyz^
+||qboywc.xyz^
+||vdggsd004.com^
+||xlca666.site^
+||zys13.top^
+423down.com##.entry > p[style="font-size: 20px;"]
+gaara-fr.com###ga-skin-top
+gamersky.com##.ad_cmt_cont
+tmioe.com###custom_html-4
+toy-people.com##.article_insertAD
+toy-people.com##.rightAd_3002502
+toy-people.com##.right_bottom_bb
