@@ -2,7 +2,7 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '58 1 * * *'
+    - cron: '55 1 * * *'
   push:
     paths:
       - '**.lua'
