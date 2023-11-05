@@ -6,7 +6,6 @@ on:
   push:
     paths:
       - '**.lua'
-      - '**.txt'
 env:
   GH_TOKEN: ${{ github.token }}
   msg: ${{ github.event.head_commit.message }}
