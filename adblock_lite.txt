@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 31972
-! Version: 231111_1725
+! Total Count: 32002
+! Version: 231112_1018
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -31988,3 +31988,33 @@ m.mtrend.cn##a[class][onclick^="window.open("],span[class][onclick^="window.open
 ##div > a[href^="https://b"][href$=".vip"][target="_blank"] > img[src]
 ##div[class][style^="line-height:"][style*="/"][style*="100vw"][style*="0px"][style*="animation"][style*="infinite"][style*="background:"]
 expedia.ca,expedia.com,expedia.co.uk,expedia.de,hotels.com##[data-meso-viewed]]
+||csmfee.xyz^
+||gscsahv011.com^
+||gscsahv012.com^
+||mvng.cn^
+||mzthbna.xyz^
+||pzcogpj.icu^
+||qoqoangry.com^
+||qwnmfiti.xyz^
+||strip.chat/widgets/$domain=tktube.com
+||valerieurania.com^
+||wymzwy.cn^
+||x2y22.fun^
+||xucyufv.icu^
+##a[href$=".html?c=adha8"][target="_blank"]
+##a[href*="xn--gnr806avi6ad2dt3f2np.com"][target="_blank"]
+##div > ul > li > a[href][title="APP下载"]
+##iframe[src*="//a.realsrv.com"]
+##iframe[src*="/lvesnk.html?zoneid="]
+423down.com##.entry > p[style*="20px;color"]
+amz123.com##.two-activity-style
+cw.com.tw##.ad--video
+cw.com.tw##.article__promotion
+cw.com.tw##.bottombar
+manhuadb.com#?#.comicbook-index:-abp-has(>a[href^="http"])
+music.youtube.com,youtubekids.com#$#json-prune '0.playerResponse.adPlacements 0.playerResponse.playerAds 1.playerResponse.adPlacements 1.playerResponse.playerAds 2.playerResponse.adPlacements 2.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds ytInitialPlayerResponse.adPlacements ytInitialPlayerResponse.playerAds adPlacements playerAds'
+music.youtube.com,youtubekids.com#$#override-property-read playerResponse.adPlacements undefined;
+music.youtube.com,youtubekids.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
+sdamgia.ru#$#abort-on-property-read Object.prototype.isCustomBannerType
+www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]'; simulate-mouse-event 'button.ytp-ad-skip-button,button.ytp-ad-skip-button$delay=0'
+zhenniu.vip###klp_hdp

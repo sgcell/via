@@ -46448,3 +46448,33 @@ music.youtube.com#$#override-property-read ytInitialPlayerResponse.adPlacements 
 pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#$#hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class][@style][count(child::*)>10]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div[@title][contains(text(),"Sponsorisée") or contains(text(),"Anzeige") or contains(text(),"Promocionado") or contains(text(),"Gesponsord") or contains(text(),"Promowane") or contains(text(),"Patrocinado") or contains(text(),"Publicidade") or contains(text(),"Sponsorizzato")]/ancestor::div[@data-test-id="pin"]';
 sdamgia.ru#$#abort-on-property-read Object.prototype.getUniqueId
 www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]'; simulate-mouse-event 'button.ytp-ad-skip-button,button.ytp-ad-skip-button-modern$delay=0'
+||csmfee.xyz^
+||gscsahv011.com^
+||gscsahv012.com^
+||mvng.cn^
+||mzthbna.xyz^
+||pzcogpj.icu^
+||qoqoangry.com^
+||qwnmfiti.xyz^
+||strip.chat/widgets/$domain=tktube.com
+||valerieurania.com^
+||wymzwy.cn^
+||x2y22.fun^
+||xucyufv.icu^
+##a[href$=".html?c=adha8"][target="_blank"]
+##a[href*="xn--gnr806avi6ad2dt3f2np.com"][target="_blank"]
+##div > ul > li > a[href][title="APP下载"]
+##iframe[src*="//a.realsrv.com"]
+##iframe[src*="/lvesnk.html?zoneid="]
+423down.com##.entry > p[style*="20px;color"]
+amz123.com##.two-activity-style
+cw.com.tw##.ad--video
+cw.com.tw##.article__promotion
+cw.com.tw##.bottombar
+manhuadb.com#?#.comicbook-index:-abp-has(>a[href^="http"])
+music.youtube.com,youtubekids.com#$#json-prune '0.playerResponse.adPlacements 0.playerResponse.playerAds 1.playerResponse.adPlacements 1.playerResponse.playerAds 2.playerResponse.adPlacements 2.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds ytInitialPlayerResponse.adPlacements ytInitialPlayerResponse.playerAds adPlacements playerAds'
+music.youtube.com,youtubekids.com#$#override-property-read playerResponse.adPlacements undefined;
+music.youtube.com,youtubekids.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
+sdamgia.ru#$#abort-on-property-read Object.prototype.isCustomBannerType
+www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]'; simulate-mouse-event 'button.ytp-ad-skip-button,button.ytp-ad-skip-button$delay=0'
+zhenniu.vip###klp_hdp
