@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32002
-! Version: 231112_1018
+! Total Count: 32023
+! Version: 231113_1017
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32018,3 +32018,24 @@ music.youtube.com,youtubekids.com#$#override-property-read ytInitialPlayerRespon
 sdamgia.ru#$#abort-on-property-read Object.prototype.isCustomBannerType
 www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]'; simulate-mouse-event 'button.ytp-ad-skip-button,button.ytp-ad-skip-button$delay=0'
 zhenniu.vip###klp_hdp
+||913mj.xyz^
+||bmtfka93.xyz^
+||bthypgm.cn^
+||drjyjr.xyz^
+||hibj.online^
+||hixutb.xyz^
+||hstjjg.com/show/$script
+||itwzlyq.com^
+||kkmsa.top^
+||nnfalf.xyz^
+||qqvlsr.icu^
+||whranc.cn^
+jwdyw.com##body > [class][classname],div[class^="show-app"],table
+###vpnModal.nordvpn-popup
+##.links-topxxx > ul > li
+##a[href*="//app.zuozuomu.xyz"]
+##body > [style$="background-size: 407px 127px !important;"]
+##body > script + [id][class][classname]
+##img[src*="//app.zuozuomu.xyz"]
+##[href^='https://down.erperweima.top/']
+www.123pan.com##.banner-container-h5
