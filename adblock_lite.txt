@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32052
-! Version: 231114_1016
+! Total Count: 32073
+! Version: 231115_1018
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32068,3 +32068,24 @@ instacart.com,instacart.ca#$#race start; hide-if-matches-xpath './/div[@class]//
 zztt11.com,zztt24.com##.event-notice
 zztt11.com,zztt24.com##.gotoclick
 zztt11.com,zztt24.com##.no-mask
+||3uvz5.xyz^
+||ads*.production-public.tubi.io^
+||aqiemc.xyz^
+||cdn.thehiveworks.com/images/bees/mobile$image,domain=smbc-comics.com
+||cry2h.cn^
+||cy5kr.fun^
+||fortxfq.cn^
+||gfbdb1.com^
+||hfresgtyytjncvvh.com^
+||jingxuanjingyan.com^
+||kaezakkjt.com^
+||kbbrptv.xyz^
+||ln0.com.cn^
+||mob*.novanewsapp.com^
+||ykujch.icu^
+423down.com##.entry > p[style$="111"]
+blog.abit.vn#$#simulate-mouse-event '#ads_popup .close$continue,delay=500'
+sdamgia.ru#$#abort-on-property-read Object.prototype.getRenderToElement
+sendspace.com#$#abort-on-property-read runad
+thapcam.live#$#simulate-mouse-event '#modalasd$continue,delay=300'
+vxetable.cn#%#//scriptlet('abort-current-inline-script', 'decodeURIComponent', 'pagead')
