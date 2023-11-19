@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32196
-! Version: 231118_1017
+! Total Count: 32208
+! Version: 231119_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32212,3 +32212,15 @@ ifeng.com##[class^='index_pageBottomBrand']
 ifeng.com##[class^='index_wutong']
 ||7dusx.xyz^
 ||jeqxuvv.icu^
+||1mxabnt.com^
+||888cool.cn^
+||rvvji.online^
+||srldkqj.cn^
+||vozftn.xyz^
+##a#wrapper_left_bg
+##a#wrapper_right_bg
+:800*/d/*?t=$script,third-party
+eol.cn,firefoxchina.cn,meiyida01.com,myd666.tv,site.baidu.com##.popup
+hao.360.com#?#.cube-mod:-abp-has(.dh-cpcad-container)
+meiyida01.com,myd666.tv##.module-blocklist
+meiyida01.com,myd666.tv#?#.module-item:-abp-has(>.module-item-titlebox>a[href*="/download/"])

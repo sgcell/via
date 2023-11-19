@@ -46672,3 +46672,15 @@ ifeng.com##[class^='index_pageBottomBrand']
 ifeng.com##[class^='index_wutong']
 ||7dusx.xyz^
 ||jeqxuvv.icu^
+||1mxabnt.com^
+||888cool.cn^
+||rvvji.online^
+||srldkqj.cn^
+||vozftn.xyz^
+##a#wrapper_left_bg
+##a#wrapper_right_bg
+:800*/d/*?t=$script,third-party
+eol.cn,firefoxchina.cn,meiyida01.com,myd666.tv,site.baidu.com##.popup
+hao.360.com#?#.cube-mod:-abp-has(.dh-cpcad-container)
+meiyida01.com,myd666.tv##.module-blocklist
+meiyida01.com,myd666.tv#?#.module-item:-abp-has(>.module-item-titlebox>a[href*="/download/"])
