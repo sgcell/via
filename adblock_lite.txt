@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32272
-! Version: 231120_1020
+! Total Count: 32302
+! Version: 231121_1022
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32288,3 +32288,33 @@ sogou.com##.vrResult[data-v="102"][exposed="1"]
 ruyo.net,winandmac.com,zhujiceping.com##.widget_custom_html
 tvyb03.com,yemancomic.com,zkk78.com##div[style^="position:fixed;"]
 zhujiceping.com##.fcode > center > table
+||333uu.org/config/
+||9191.site/ad.js
+||apvnzvg.xyz^
+||fwhhcpj.xyz^
+||g0fc3.com^
+||gcbtgh26.xyz^
+||hinm.online^
+||hkljed.xyz^
+||holdntlc.com^
+||hooe.top^
+||ipad.pc899.cn^
+||jane2.top^
+||l404k.com^$script
+||llmxt.fun^
+||nyhgjmlg.xyz^
+||owkmmo.xyz^
+||rqrvfp.xyz^
+||shanhaimiwenlu.com/sh
+||tmvebl.xyz^
+||vrosqolcg.com^
+||zhangyuting04.cn^
+buondua.com,buondua.us##.search-form + br + div[class]
+/api/adplogger/*
+bombafilms.ru,freehat.cc,hlamer.ru,lostpix.com,oxax.tv,potokcdn.com,prostoporno.help,tivix.co,tt-cup.com,tv-assia.org,uploadimagex.com,vmusi.ru,volynpost.com,wowskill.ru,xittv.net,zerno-ua.com#$#abort-on-property-read open
+hanime1.me##.video-show-width > .single-show-list > .hidden-xs[style*="text-align:"]
+instacart.com,instacart.ca#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ss")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sssp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ap-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ep-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-bp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-cp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-dp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-gp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-hp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-ip-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath '//div[@class]//div/@*[contains(name(),"data-jp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-kp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-lp-eligible")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-mp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-qp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+new.qq.com#%#//scriptlet('json-prune', 'ads')
+sendspace.com#$#abort-on-property-read runad false
+viet69.tube,ungtycomicsvip.com,truyengihotday.net,dualeotruyenpk.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs#$#abort-current-inline-script WebAssembly instantiate
+wavse.com,kims3.xyz#@#.google-ad
