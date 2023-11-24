@@ -47002,3 +47002,19 @@ qq.com##A[dt-eid^='em_item_ad']
 qq.com##[id^='App_WAP_share_page']
 ||mhglue.xyz^
 ||vgtimes.ru^$xmlhttprequest,header=x-yandex-req-id
+||bfgtfxd.com^
+||djponj.xyz^
+||fgcxdr.cn^
+||huxsvl.xyz^
+||juhooqv.cn^
+||kbzs88.com^
+||kkeojk.xyz^
+||koyuod.xyz^
+||lejshxao.xyz^
+||prhphla.xyz^
+||ronm.top^
+||vpqko.fun^
+||wwwww.asia^
+||yjbdyjnctgj.top^
+||ytezym.xyz^
+sports.ru#$#abort-on-property-read Sports.pageData.browserTime

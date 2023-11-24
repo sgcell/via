@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32526
-! Version: 231123_1018
+! Total Count: 32542
+! Version: 231124_1016
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32542,3 +32542,19 @@ qq.com##A[dt-eid^='em_item_ad']
 qq.com##[id^='App_WAP_share_page']
 ||mhglue.xyz^
 ||vgtimes.ru^$xmlhttprequest,header=x-yandex-req-id
+||bfgtfxd.com^
+||djponj.xyz^
+||fgcxdr.cn^
+||huxsvl.xyz^
+||juhooqv.cn^
+||kbzs88.com^
+||kkeojk.xyz^
+||koyuod.xyz^
+||lejshxao.xyz^
+||prhphla.xyz^
+||ronm.top^
+||vpqko.fun^
+||wwwww.asia^
+||yjbdyjnctgj.top^
+||ytezym.xyz^
+sports.ru#$#abort-on-property-read Sports.pageData.browserTime
