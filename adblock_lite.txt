@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 32542
-! Version: 231124_1016
+! Total Count: 32571
+! Version: 231125_1014
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -32558,3 +32558,32 @@ qq.com##[id^='App_WAP_share_page']
 ||yjbdyjnctgj.top^
 ||ytezym.xyz^
 sports.ru#$#abort-on-property-read Sports.pageData.browserTime
+||asiav.cyou/myupdatelist.
+||bjhhbox.xyz^
+||gg88.bj.bcebos.com^
+||jdbstatic.com/ads/
+||jiangyahuid.top^
+||kfckcu.xyz^
+||leidad.xyz^
+||max211.top^
+||pezttb.xyz^
+||pvnzrr.xyz^
+||q4v3c.site^
+||qvftejz.cn^
+||st-fly.b-cdn.net^
+||tobyxev.com^
+||uebipacy.xyz^
+||wecklrb.cn^
+##.dplayer > .tips
+##.player-box > [style*="flex; justify"]
+##a[href*=".erodatalabs.com/"]
+##a[href*=".hyenadata.com/"]
+##img#GGADIMG
+/^(?!.*(fastly.net|statically.io|sharecast.ws|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yandex.|yastatic.net|ytimg.com|zencdn.net|player|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|imgsmail.ru)).*$/$third-party,script,_____,domain=manshuxs.com|yemancomic.com|qimiaoxiaoshuo.com|gaofuwu.org|nxpaaq.com|dengbi2.com|92hm.top|634.tv|myhaitang.cc
+@@||toolfk.com^$generichide
+aaread.space##.navi
+aaread.space##div[style^="position: fixed; bottom:"]
+aiyifan.tv,iyf.tv#?#.video-player + div.ps > div:has(> div.bb)
+netfly.fun##.player-box-main ~ [style^="display: flex; justify-content: space-between;"]
+netfly.fun#?#.content > div:not([class]):has(> [style="display: flex; justify-content: space-between; width: 100%;"])
+vid.onlymu.site##.tips
