@@ -47047,3 +47047,32 @@ aiyifan.tv,iyf.tv#?#.video-player + div.ps > div:has(> div.bb)
 netfly.fun##.player-box-main ~ [style^="display: flex; justify-content: space-between;"]
 netfly.fun#?#.content > div:not([class]):has(> [style="display: flex; justify-content: space-between; width: 100%;"])
 vid.onlymu.site##.tips
+||1905.com/data/js/*.json
+||91bixin.net/api/adv/
+||91bixin.net/api/chdd/liveAdv?
+||adfsda005.xyz^$third-party
+||autyxdek.xyz^
+||bcovazp.icu^
+||bhlntz.xyz^
+||haree.cn^
+||i9klo.com^
+||jiangyahuir.top^
+||lemida.xyz^
+||m1905.cn/js/afp/m
+||ntlzvrv.xyz^
+||pobrpr.xyz^
+||rycff.online^
+||uzrxoxd.xyz^
+||vrdxznr.xyz^
+||xixil.cn^
+rule34video.com##.thumb:has([src*="/lv/esnk/"]),.thumb:has([src*=".jads."]),.footer_spots:has([src*="/lv/esnk/"]),.footer_spots:has([src*=".jads."])
+sogou.com##.vrResult[data-v="103"][exposed="1"]
+://*.adfsda*.xyz/*/*$third-party
+##.body > script + div[style*="135px;"]
+##body > script + *[id][class][classname]
+100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,265g.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landian.vip,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xchina.fun,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
+ruyo.net,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_html
+tvyb03.com###playlistbtn
+yufile.com##.fb_r > a
+yufile.com##.lo_box
+zouaw.com##.cloudbox
