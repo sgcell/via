@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33060
-! Version: 231207_1020
+! Total Count: 33112
+! Version: 231208_1020
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33076,3 +33076,55 @@ sportowefakty.wp.pl#$#hide-if-matches-xpath './/a[@href][@class][@*]/img[@class]
 ||nwpcptmm.xyz^
 ||rfxnff.xyz^
 ||wiczcu.xyz^
+||2ghai.com/zz/
+||44180055.cn^
+||bmatgg18.xyz^
+||cdn.holmesmind.com^$third-party
+||cnqaaa.xyz^
+||cwrxgb.icu^
+||getcdnpix.name^
+||gn01.top^
+||hdbppx.xyz^
+||holmesmind.com^
+||jxuhurp.icu^
+||jzlso.xyz^
+||lvzkfcm.cn^
+||manymgsgn.com^
+||maxun066.top^
+||maxun118.top^
+||mrs30w.com^
+||murdyq.com^
+||newdin.name^
+||uito.top^
+||wwhsxwow.xyz^
+||wzzlnld.xyz^
+||xozilla.xxx/static/js/ppndr*.js
+||ydv7k.cyou^
+||ysxt9.com^
+###sc-superman-ad
+##.above_video_banner
+##.adv-overlay
+##.mobile_aboveplayer
+##.pro-molnk
+##a[href*=".mhtimes.cn"]
+##a[target="_blank"][href^="https://365fun.sng.link"]
+##iframe[src*="//deliver.ptgncdn.com/"]
+##iframe[src*="//getcdnpix.name/"]
+##iframe[width][height][src*="/api/spots/"][src*="?"]
+##img[src*="www.pussyspace.com"]
+##li.adcls
+##td[id^="td_"] > a[href^="/htmm/"]
+.com/rs/shto/$third-party
+2ghai.com##.a_xiu_t
+2ghai.com##.yttl_x_g
+etsy.com#$#hide-if-matches-xpath './/span[@data-ad-label="Ad by Etsy seller"]/preceding::a[contains(@class,"b2c")][not(contains(@class,"b91"))][@data-palette-listing-image]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
+hgamefree.info###text-7
+huya.com##.small-handle-tip
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.io,phimbom.online,sieudamtv.com,ephimchill.com#$#abort-on-property-read document.cookie
+viet69.tube,ungtycomicsvip.com,truyengihotmoi.net,dualeotruyenww.com,yurineko.net,vlxyz.tv,olaphim.net,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv#$#abort-current-inline-script WebAssembly instantiate
+wezhicms.com##.activity
+wezhicms.com#?#.card-main:-abp-has(.waimai-item-img)
+xoilac95.tv##.modal.fade.show
+xoilac95.tv#$#abort-current-inline-script jQuery overlay
+xoilac95.tv#$#abort-current-inline-script jQuery popupBanners
+xoilac95.tv#$#abort-on-property-read adsRedirectPopups
