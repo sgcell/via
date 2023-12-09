@@ -47588,3 +47588,20 @@ xoilac95.tv##.modal.fade.show
 xoilac95.tv#$#abort-current-inline-script jQuery overlay
 xoilac95.tv#$#abort-current-inline-script jQuery popupBanners
 xoilac95.tv#$#abort-on-property-read adsRedirectPopups
+||88dml.top^
+||clouds.kunlunus.com^
+||kvhtsvy.xyz^
+||lsce.top^
+||so.com^*baike/ads?
+||valerieavisnba.com^
+||ytlcz.cn^
+||zpzlbv.xyz^
+##body > [style$="background-size: 407px 129px !important;"]
+##div[class="overfloat"][id="gui_kai"]
+etsy.com#$#hide-if-matches-xpath './/span[@data-ad-label="Ad by Etsy seller"]/preceding::a[contains(@class,"b58")][not(contains(@class,"bbd"))][@data-palette-listing-image]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
+factfeed.com,mdrntoday.com,travelroo.com###vidazooAd
+factfeed.com,mdrntoday.com,travelroo.com#$#hide-if-matches-xpath './/div[contains(@class,"ad-lines") and contains(text(),"ADVERTISEMENT")]/parent::div[@class="ad-text-box"]/ancestor::div[@class][@style]'
+outlook.live.com#?#div[style*="top: 0px"]:-abp-has(>div:-abp-contains(Ad))
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.io,phimbom.online,sieudamtv.com,ephimchill.com,motphimhan.cc#$#abort-on-property-read document.cookie
+viet69.tube,ungtycomicsvip.com,truyengihotmoi.net,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv#$#abort-current-inline-script WebAssembly instantiate
+||adgarden.market^$domain=factfeed.com|mdrntoday.com|travelroo.com
