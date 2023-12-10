@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33129
-! Version: 231209_1017
+! Total Count: 33145
+! Version: 231210_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33145,3 +33145,19 @@ outlook.live.com#?#div[style*="top: 0px"]:-abp-has(>div:-abp-contains(Ad))
 truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.io,phimbom.online,sieudamtv.com,ephimchill.com,motphimhan.cc#$#abort-on-property-read document.cookie
 viet69.tube,ungtycomicsvip.com,truyengihotmoi.net,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmax.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv#$#abort-current-inline-script WebAssembly instantiate
 ||adgarden.market^$domain=factfeed.com|mdrntoday.com|travelroo.com
+||ebpex.space^
+||fherunm.cn^
+||fmzifaqi.xyz^
+||kqvvqv.icu^
+||ozolei.xyz^
+||tpzatf.xyz^
+||vhotcvp.xyz^
+||wnllmyw.xyz^
+||zzbmxl.xyz^
+.com:8077/*?$third-party
+114la.com,78dm.net,chinairn.com,chinanews.com.cn,dav01.com,qncye.com,qzwb.com,silisili.in,silver.org.cn,solidot.org,ylmf.com##.adv
+423down.com##span > a > b
+chinanews.com,chinanews.com.cn###dingtong
+chinanews.com.cn##.tp_adv
+chinanews.com.cn##.wap_adv
+gonglue.us###custom_html-6
