@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33145
-! Version: 231210_1021
+! Total Count: 33279
+! Version: 231211_1020
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33161,3 +33161,137 @@ chinanews.com,chinanews.com.cn###dingtong
 chinanews.com.cn##.tp_adv
 chinanews.com.cn##.wap_adv
 gonglue.us###custom_html-6
+||aerbgpn.xyz^
+||aymwiq.xyz^
+||bpdtrfb.xyz^
+||effectivedisplayformats.com^
+||foxoxn.xyz^
+||hjdkvt.xyz^
+||kqwerp.top^
+||limopf.top^
+||lleo.top^
+||nfldgbt.xyz^
+||oafhif.icu^
+||ocryndsu.xyz^
+||ptflrj.xyz^
+||ravzbd.xyz^
+||sltle.icu^
+||szbxm.cn^
+||tc8ji.website^
+||uwerpyh.cn^
+||wxsignin.top^
+||zf4.top^
+||zxpvalr.xyz^
+/ad-styles.
+/ad-tag-
+/ad-tag2.
+/ad-tags/*
+/ad-tandem.
+/ad-template.
+/ad-template/*
+/ad-text.
+/ad-third-party/*
+/ad-third-party?
+/ad-time/*
+/ad-title.
+/ad-top-
+/ad-top.
+/ad-top/*
+/ad-topbanner-
+/ad-unit-
+/ad-units.
+/ad-updated-
+/ad-utilities.
+/ad-vert.
+/ad-vertical-
+/ad-verticalbar.
+/ad-view-
+/ad-web.
+/ad-wisteria.
+/ad.*/impression?
+/ad.ams.
+/ad.ashx?
+/ad.asp?
+/ad.aspx?
+/ad.cgi?
+/ad.code?
+/ad.css?
+/ad.epl?
+/ad.gif|
+/ad.html?
+/ad.js?slot
+/ad.jsp?
+/ad.mason?
+/ad.min.
+/ad.php3?
+/ad.php?
+/ad.php|
+/ad.popup?
+/ad.premium-
+/ad.redirect.
+/ad.sense/*
+/ad.serve.
+/ad.skin.
+/ad.slot.
+/ad.valary?
+/ad.view?
+/ad.xml$xmlhttprequest
+/ad.ytn.
+/ad/View3.
+/ad/a.aspx?
+/ad/ad2/*
+/ad/add_
+/ad/adp_
+/ad/ads-
+/ad/afc_
+/ad/api/*
+/ad/article/*
+/ad/article_
+/ad/audsci.
+/ad/b_view?
+/ad/banner.
+/ad/banner?
+/ad/banner_
+/ad/bannerdetails/*
+/ad/bannerimg/*
+/ad/banners/*
+/ad/bbl-
+/ad/behavpixel.
+/ad/bin/*
+/ad/blank.
+/ad/blog_
+/ad/bottom.
+/ad/bsb.
+/ad/card-
+/ad/clients/*
+/ad/common/*
+/ad/common_
+/ad/commons/*
+/ad/content/*
+/ad/count.
+/ad/cpmstar/*
+/ad/cross-
+/ad/dfp/*
+/ad/directcall/*
+/ad/empty.
+/ad/err?
+/ad/extra/*
+/ad/extra_
+/ad/files/*
+/ad/frame1.
+/ad/framed?
+/ad/generate?
+/ad/get_
+/ad/getban?
+/ad/getbanandfile?
+/ad/google/*
+/ad/google_
+/css/ad.
+##.ad.w
+##a[href*="/?channel="] > img[src]
+##a[href*="app:"] > img[src]
+##a[href][target="_blank"] > img[src*="//jusotop.com/"][alt]
+www.stbemucode.com##DIV.header-ads
+||seutop.icu^
+||ucjevgue.xyz^
+||ukkkmg.xyz^
