@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33279
-! Version: 231211_1020
+! Total Count: 33308
+! Version: 231212_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33295,3 +33295,32 @@ www.stbemucode.com##DIV.header-ads
 ||seutop.icu^
 ||ucjevgue.xyz^
 ||ukkkmg.xyz^
+||0hq6k.site^
+||amxk.top^
+||dsbudkwq.xyz^
+||gmgbmzz.xyz^
+||gwivqo.xyz^
+||kkisoo.com^
+||lhtnuop.xyz^
+||lmtnfl.xyz^
+||pdhjnz.xyz^
+aiyingshi.tv###ADmask
+baifumeiba.com##DIV#ad
+ddzzxs.com###inglestore.inglestore
+etsy.com#$#hide-if-matches-xpath './/span[@data-ad-label="Ad by Etsy seller"]/preceding::a[contains(@class,"b6a")][not(contains(@class,"b2b"))][@data-palette-listing-image]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
+ofiii.com#%#//scriptlet('trusted-replace-fetch-response', '"play_ads":true', '"play_ads":false')
+stbemucode.com##DIV.header-ads
+stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
+www.youtube.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]' 5;simulate-mouse-event 'button.ytp-ad-skip-button-modern$delay=0';simulate-mouse-event 'button.ytp-ad-skip-button-modern'
+xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
+xbgame.net#@##google-ads
+xbgame.net#@#.google-ads
+xoilac87.net##.modal.fade.show
+xoilac87.net#$#abort-current-inline-script jQuery overlay
+xoilac87.net#$#abort-current-inline-script jQuery popupBanners
+xoilac87.net#$#abort-on-property-read adsRedirectPopups
+||adsv.svc.litv.tv/ads?ad_unit=$xmlhttprequest,redirect=noopvast-3.0,important,domain=ani.gamer.com.tw
+||mefiafd.top^
+||phfqumvi.xyz^
+||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$xmlhttprequest,redirect=noopvast-3.0,important
+||pvajlmhjjq.xyz^
