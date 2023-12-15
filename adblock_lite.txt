@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33392
-! Version: 231214_1018
+! Total Count: 33433
+! Version: 231215_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33408,3 +33408,44 @@ tw.news.yahoo.com##.caas-body > .caas-iframe-wrapper > .flourish
 ||viladram.xyz^
 ||xxlihf.xyz^
 instagram.com#$#race start; hide-if-matches-xpath '//article[@class]//span[text()]//following::a[contains(@class,"_ad")][contains(@href,"facebook.com/ads/ig_redirect/?")]/ancestor::div[5]'; hide-if-has-and-matches-style * 'article[class]~*>div' 'article[class]~*>div>div span:last-of-type *>svg[style]' '/./' '/(width: [2-9])/'; race stop;
+||1227a.xyz^
+||1229a.xyz^
+||1287a.xyz^
+||222aa333bb.com^
+||2biqu.com/static/*/*.js
+||5698tp.com^
+||666aa777bb.com^
+||88dgn.top^
+||88dgx.top^
+||aa889988aa.com^
+||ajbpcxi.xyz^
+||baitu3lllqubyqmttdkjsv.com^
+||fhdjdv.xyz^
+||fvcwqkkqmuv.com^
+||fxbcc.cyou^
+||jdbfknsbkldns.com^
+||kfpicimage.xyz^
+||kkyjfdj.xyz^
+||maxun103.top^
+||mross044.com^
+||pgieqr.top^
+||rwnmcum.cn^
+||sda1.dev^
+||smbx8.net^
+ddzzxs.com###inglestore
+mpo18.com##a[href^="https://api.openpanel.analytics.international"]
+.xyz/wiseindex*?$third-party
+/assets/public/d3.2.js$script,~third-party
+/assets/public/react.3.js$script,~third-party
+/assets/publish/chart.1.js$script,~third-party
+/assets/publish/d3.2.js$script,~third-party
+/assets/publish/react.3.js$script,~third-party
+://s.*srv.com/*.php?idzone=$third-party
+##.pro1-molnk
+##.prom-olnk
+@@||os2023001.oss-cn-quanzhou.kz.cc$script
+4gamers.com.tw#?#.aroma-news-detail-side > div[media-width]:has(div.aols-wrapper > a[target="_blank"][rel="noopener"])
+4gamers.com.tw#?#.container-fluid  > .vue-portal-target:has(> div[style] > .aroma-news-detail-iframe-ads)
+etsy.com#$#hide-if-matches-xpath './/h3[contains(@id,"ad-listing")]/ancestor::li'
+m.lwxs.com#%#//scriptlet('abort-current-inline-script', 'document.write', '_0x')
+m.lwxs.com#%#//scriptlet('abort-current-inline-script', 'eval', '_0x')
