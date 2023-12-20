@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33559
-! Version: 231219_1019
+! Total Count: 33584
+! Version: 231220_0958
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33575,3 +33575,28 @@ segmentfault.com###hotArticles:nth-child(3)
 www.linkedin.com#$#simulate-mouse-event 'xpath(//*[text()="Promoted" or text()="Sponsored" or text()="Dipromosikan" or text()="Propagováno" or text()="Promoveret" or text()="Anzeige" or text()="Promocionado" or text()="促銷內容" or text()="Post sponsorisé" or text()="프로모션" or text()="Post sponsorizzato" or text()="广告" or text()="プロモーション" or text()="Treść promowana" or text()="Patrocinado" or text()="Promovat" or text()="Продвигается" or text()="Marknadsfört" or text()="Nai-promote" or text()="ได้รับการโปรโมท" or text()="Öne çıkarılan içerik" or text()="الترويج"]/ancestor::div[@data-id]//video[@autoplay="autoplay"])$delay=10'
 ||adtx2.cn^
 ||fundingchoicesmessages.google.com^$third-party
+||buxfznnf.xyz^
+||demifa.top^
+||dfninp.xyz^
+||efalid.top^
+||feakio.top^
+||hdjthzg.cn^
+||hznaxah.cn^
+||kafuzcxr.xyz^
+||kdh095.cn^
+||nnrbyty.xyz^
+||redyzlmc.xyz^
+||rsvvfx.xyz^
+||sdjbcjsbdjk.com^
+||tatyboy.top^
+||uuxfznnf.xyz^
+||yv8zs.online^
+##[href*='anrvl.com']
+##[href*='snnrb.com']
+##[href*='zthbe.com']
+celleheute.de#$#hide-if-matches-xpath '//*[@data-image-info]/img[contains(@style,"440")]/ancestor::div[@id][@class][1]//parent::div[@data-hook]/parent::div[@id and @class]'; hide-if-matches-xpath './/a[@data-testid]/*[@data-image-info]/img[contains(@style,"300")]/ancestor::a[@target]/parent::div[@id][@class][1]'; hide-if-contains-visible-text /Anzeige/ 'p>span[class][style]';
+delfi.lt#$#hide-if-matches-xpath './/a[@href][contains(@style,"100%")]/parent::*[@style][1]'; hide-if-matches-xpath './/div[contains(text(),"Užsakomasis")]/parent::div[contains(@class,"U-display")]/ancestor::article[1]';
+delfi.lt#$#simulate-mouse-event 'xpath(.//*[@style]/a[contains(@href,"javascript")])$delay=10'
+mephimnhe1.net#$#abort-current-inline-script jQuery popurl
+pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#$#race start; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class and @style]//following-sibling::div[@style]//div[contains(@style,"margin-bottom: 2px")]//div[contains(@class,"op")]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]' ;hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class and @style]//style/parent::div/child::div/ancestor::div[@data-test-id="pin"]/ancestor::div[@role="listitem"][@style]'; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class][@style][count(child::*)>=10]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class][@style]//span//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class and @style]//following-sibling::div[@style]//div[contains(@style,"margin-bottom: 2px")]//div[contains(@class,"promotedby")]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; race stop;
+||sovelswpq.com^
