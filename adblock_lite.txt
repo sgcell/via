@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33616
-! Version: 231221_1018
+! Total Count: 33722
+! Version: 231222_1017
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33632,3 +33632,109 @@ www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-mai
 znews.vn#$#abort-on-property-read adtimaConfig
 ||cgdyw.net/xx/
 ||vfrdewsdg.xyz^
+||aokkwzg.cn^
+||bznizrhd.xyz^
+||ezeqcy.xyz^
+||fgwerg.top^
+||ghreha.top^
+||gkktjf.top^
+||gunepszy.xyz^
+||kycxhgrp.xyz^
+||lmrhhn.xyz^
+||lppgjf.xyz^
+||mznizrhd.xyz^
+||oe3.top^
+||qxzlmzt.xyz^
+||sagcyq.xyz^
+||staffboozerenamed.com^$document
+||staffboozerenamed.com^$~third-party
+||tznizrhd.xyz^
+||uznizrhd.xyz^
+||xznizrhd.xyz^
+||zomcz.cyou^
+.com:8891/vh3/
+/other/survey/system_vpn_update/$document
+/other/survey/system_vpn_update/$~third-party
+###yp-home[role="tabpanel"]
+/exads-adblock-$image
+18-comic.work,18comic.org,18comic.vip,jmcomic.me###guide-modal
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##.div_sticky2
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##.modal-backdrop
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+@@||abackafterthought.com^$script,xmlhttprequest
+@@||actuallything.com^$script,xmlhttprequest
+@@||amuckafternoon.com^$script,xmlhttprequest
+@@||axiomaticanger.com^$script,xmlhttprequest
+@@||bikesboard.com^$script,xmlhttprequest
+@@||chairsdonkey.com^$script,xmlhttprequest
+@@||comparereaction.com^$script,xmlhttprequest
+@@||compiledoctor.com^$script,xmlhttprequest
+@@||controlcola.com^$script,xmlhttprequest
+@@||culturedfeather.com^$script,xmlhttprequest
+@@||deliciousducks.com^$script,xmlhttprequest
+@@||dependenttrip.com^$script,xmlhttprequest
+@@||dinnerquartz.com^$script,xmlhttprequest
+@@||elasticducks.com^$script,xmlhttprequest
+@@||exampleshake.com^$script,xmlhttprequest
+@@||extractobservation.com^$script,xmlhttprequest
+@@||firsttexture.com^$script,xmlhttprequest
+@@||fixedfold.com^$script,xmlhttprequest
+@@||flameuncle.com^$script,xmlhttprequest
+@@||framebanana.com^$script,xmlhttprequest
+@@||functionalfeather.com^$script,xmlhttprequest
+@@||futuristicframe.com^$script,xmlhttprequest
+@@||headydegree.com^$script,xmlhttprequest
+@@||internalcondition.com^$script,xmlhttprequest
+@@||jandan.net^$generichide
+@@||livingsleet.com^$script,xmlhttprequest
+@@||loadsurprise.com^$script,xmlhttprequest
+@@||mittencattle.com^$script,xmlhttprequest
+@@||motionlessmeeting.com^$script,xmlhttprequest
+@@||nappyneck.com^$script,xmlhttprequest
+@@||numberlessring.com^$script,xmlhttprequest
+@@||nutritiousbean.com^$script,xmlhttprequest
+@@||oldfashionedoffer.com^$script,xmlhttprequest
+@@||operationnail.com^$script,xmlhttprequest
+@@||parallelbulb.com^$script,xmlhttprequest
+@@||planebasin.com^$script,xmlhttprequest
+@@||pointdigestion.com^$script,xmlhttprequest
+@@||popplantation.com^$script,xmlhttprequest
+@@||pricklypollution.com^$script,xmlhttprequest
+@@||probablepartner.com^$script,xmlhttprequest
+@@||processplantation.com^$script,xmlhttprequest
+@@||publicsofa.com^$script,xmlhttprequest
+@@||quirkysugar.com^$script,xmlhttprequest
+@@||realizedoor.com^$script,xmlhttprequest
+@@||relationrest.com^$script,xmlhttprequest
+@@||rememberdiscussion.com^$script,xmlhttprequest
+@@||rhythmrule.com^$script,xmlhttprequest
+@@||ritzyrepresentative.com^$script,xmlhttprequest
+@@||rollconnection.com^$script,xmlhttprequest
+@@||scatteredquiver.com^$script,xmlhttprequest
+@@||serendipityecho.com^$script,xmlhttprequest
+@@||stakingbasket.com^$script,xmlhttprequest
+@@||stopstomach.com^$script,xmlhttprequest
+@@||stripedbat.com^$script,xmlhttprequest
+@@||swingslip.com^$script,xmlhttprequest
+@@||tearfulglass.com^$script,xmlhttprequest
+@@||thinkitten.com^$script,xmlhttprequest
+@@||tradetooth.com^$script,xmlhttprequest
+@@||tritethunder.com^$script,xmlhttprequest
+@@||truculentrate.com^$script,xmlhttprequest
+@@||uppitytime.com^$script,xmlhttprequest
+@@||vanishmemory.com^$script,xmlhttprequest
+@@||venomousvessel.com^$script,xmlhttprequest
+@@||vibrantsundown.com^$script,xmlhttprequest
+@@||voicelessvein.com^$script,xmlhttprequest
+@@||washbanana.com^$script,xmlhttprequest
+@@||wittypopcorn.com^$script,xmlhttprequest
+lan-sha.com#?#.post-list > li.post-item:not(:has(> div.post-item-container a[href^="https://www.lan-sha.com/"][href$=".html"]))
+pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#$#race start; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class and @style]//following-sibling::div[@style]//div[contains(@style,"margin-bottom: 2px")]//div[contains(@class,"op")]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]' ;hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class and @style]//style/parent::div/child::div/ancestor::div[@data-test-id="pin"]/ancestor::div[@role="listitem"][@style]'; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class][@style][count(child::*)>=10]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class][@style]//span//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class and @style]//following-sibling::div[@style]//div[contains(@style,"margin-bottom: 2px")]//div[contains(@class,"promotedby")]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div/div/a[@rel][@tabindex]//div[@class and @style]//following-sibling::div[@style]//div[contains(@style,"margin-bottom: 2px")]//div[contains(@class,"promo7edby")]//ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; race stop;
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.io,sieudamtv.com,ephimchill.com,motphimhan.cc,maclife.io,ophimhdvn3.net#$#abort-on-property-read document.cookie
+wnacg.com#@#.pcd_ad
+xoilac86.net#$#abort-on-property-read adsRedirectPopups
