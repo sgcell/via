@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33847
-! Version: 231225_1019
+! Total Count: 33871
+! Version: 231226_1015
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33863,3 +33863,27 @@ jb59.net##.test3
 ##body#app.pc.mobile
 ##div[class*="swiper-"][class*="-initialized"][class*="-horizontal"][class*="-ios"]
 ||10086.cn/together/s?func=together:getAdvertInfos&
+||arhnuin.xyz^
+||bjappzvz.xyz^
+||cnmo.com/oddjs/
+||jazftz.xyz^
+||kiiepofl.xyz^
+||mjappzvz.xyz^
+||nahgvfhs.xyz^
+||pctv.xyz^
+||rjlfolk.xyz^
+||tipl.top^
+||tjappzvz.xyz^
+||ujappzvz.xyz^
+||v.vgbhujklp.xyz^
+||xiaobizaizi1.top^
+||xjappzvz.xyz^
+koreaporn.net##div.bb_mobile
+.xyz/ads/
+##iframe[data-src*="//a.magsrv.com/"]
+@@||ahhhhfs.com^$generichide
+ahhhhfs.com##.site-addswarp
+yimenapp.com,sssam.com##.widget_html_ad
+||2cursjb.com^
+||2rwonuh.com^
+||tenekslu.com^
