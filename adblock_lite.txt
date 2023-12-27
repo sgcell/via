@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33871
-! Version: 231226_1015
+! Total Count: 33901
+! Version: 231227_1015
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33887,3 +33887,33 @@ yimenapp.com,sssam.com##.widget_html_ad
 ||2cursjb.com^
 ||2rwonuh.com^
 ||tenekslu.com^
+||055g.com^
+||1sk27.fun^
+||7vnkf.online^
+||biiepofl.xyz^
+||daslethv.com^
+||dbpxivi.xyz^
+||dfg6.top^
+||hscnpk86.shop^
+||iiwoqm.xyz^
+||iossdok.com^
+||jkbdpp.xyz^
+||koqsxdpx.xyz^
+||lkenflknkd.com^
+||lkuygf.top^
+||maxucc77.top^
+||maxunn55.top^
+||miiepofl.xyz^
+||tiiepofl.xyz^
+||uiiepofl.xyz^
+||wqnwdjjc.xyz^
+||xiiepofl.xyz^
+||zu2.top^
+##DIV.swiper2.swiper-initialized.swiper-horizontal
+##ul.thread_detail_ads
+apkcombo.com##.diseanmevrtt
+apkcombo.com##[data-d-ad-id]
+heho.com.tw##div[id^="heho-ml-"]
+huya.com###template
+huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
+tw100s.com##div[class="ui_adblock"]
