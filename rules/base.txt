@@ -48377,3 +48377,32 @@ heho.com.tw##div[id^="heho-ml-"]
 huya.com###template
 huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 tw100s.com##div[class="ui_adblock"]
+||9j9zo.cyou^
+||boqsxdpx.xyz^
+||crxs.me/plugins/jquery.modal/
+||ggsnyc.xyz^
+||jubbkon.top^
+||jxeyhgw.cn^
+||knfhxszj.xyz^
+||moqsxdpx.xyz^
+||muyihh.top^
+||ptppcyg.xyz^
+||rdji.top^
+||rudenx.xyz^
+||toqsxdpx.xyz^
+||uoqsxdpx.xyz^
+||uuuzuu.xyz^
+||vyriglq.cn^
+||wfqgfaa.cn^
+||xoqsxdpx.xyz^
+||zkfojr.xyz^
+crxs.me##.push-top
+instacart.com,instacart.ca#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/preceding::a[@class][contains(@href,"interaction_id")]/ancestor-or-self::div[@id and @class][1][not(@id="store-wrapper") and not(@id="js-app")]'
+instacart.com,instacart.ca#$#hide-if-matches-xpath './/div[count(child::*[text()])=2]/parent::div/ancestor::article[@id and @class]'
+instacart.com,instacart.ca#$#hide-if-matches-xpath './/video[@disablepictureinpicture]/ancestor-or-self::div[contains(@id,"video-player")]/ancestor::div[@id][@class][1][not(@id="store-wrapper") and not(@id="js-app")]'
+instacart.com,instacart.ca#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-rp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-qp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-tp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-up-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vvp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vvvp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-fp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-ap-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+liveball.cc,liveball.uno#$#abort-on-property-read ABNS
+phimvietsub.pro,api.anime3s.com,subnhanh.xyz#$#override-property-read maxAds 0
+thapcam2.live#$#simulate-mouse-event '#modalasd$continue,delay=300'
+viet69.tube,ungtycomicsvip.com,truyengihotqua.net,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmoi.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in#$#abort-current-inline-script WebAssembly instantiate
+zab.ru#$#abort-on-property-read document.body.style
