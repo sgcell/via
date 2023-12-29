@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33930
-! Version: 231228_1016
+! Total Count: 33960
+! Version: 231229_1012
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33946,3 +33946,33 @@ phimvietsub.pro,api.anime3s.com,subnhanh.xyz#$#override-property-read maxAds 0
 thapcam2.live#$#simulate-mouse-event '#modalasd$continue,delay=300'
 viet69.tube,ungtycomicsvip.com,truyengihotqua.net,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmoi.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in#$#abort-current-inline-script WebAssembly instantiate
 zab.ru#$#abort-on-property-read document.body.style
+||5q7eb.website^
+||6969aa.cn^
+||apiapi88.com^$image
+||blthwbe.xyz^
+||bnfhxszj.xyz^
+||ehaie.top^
+||fqfclmlo.xyz^
+||kkosiso.com^
+||ktnwxhjv.xyz^
+||lwdcnz.xyz^
+||mmn811.top^
+||mnfhxszj.xyz^
+||s019.com^
+||tnfhxszj.xyz^
+||tuqnwz.icu^
+||unfhxszj.xyz^
+||uuishsa.com^
+||vjpgm.space^
+||xnfhxszj.xyz^
+.xyz/?token=$third-party
+###ad-300x250_mid_mobile
+###ad-300x250_mobile
+##a[href*=".xyz/?token="][target="_blank"]
+##a[href*="/dsf188.cc"]
+##body > [style$="background-size: 407px 128px !important;"]
+1909.me,8se.me,crxs.me,litu100.xyz,xchina.biz,xchina.co,xchina.pro##.push-top
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.io,sieudamtv.net,ephimchill.com,motphimhan.cc,maclife.io,ophimhdvn3.net,thuvienhd.xyz#$#abort-on-property-read document.cookie
+v.qq.com###iwan-gamependant-page
+v.qq.com##.game-switch-ad
+viet69.tube,ungtycomicsvip.com,truyengihotqua.net,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.media,phimsexhay669.co,cliphot69.biz,doctruyen3qmoi.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in,truyenvnhay.tv#$#abort-current-inline-script WebAssembly instantiate
