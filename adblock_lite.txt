@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33835
-! Version: 240101_1025
+! Total Count: 33856
+! Version: 240102_1019
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33851,3 +33851,24 @@ technews.tw##.inside_AD
 ||vtnmxx.xyz^
 ||xydzfldt.xyz^
 sohu.com##[data-spm-content='ad']
+||bflybplr.xyz^
+||cshlal.icu^
+||ecpshapm.xyz^
+||fznxvf.xyz^
+||hltqsbl.cn^
+||hwhacum.cn^
+||kflybplr.xyz^
+||kltmjevd.xyz^
+||mflybplr.xyz^
+||njpyrn.xyz^
+||skdaj.cn^
+||smgsue.xyz^
+||suclj.xyz^
+||svhdbmp.cn^
+||tflybplr.xyz^
+||uflybplr.xyz^
+||vcjczwnc.xyz^
+||xflybplr.xyz^
+||zjjlhvo.xyz^
+##DIV.playVideo-centerAd
+##IMG.playVideo-checkin-img
