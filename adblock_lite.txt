@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 33919
-! Version: 240104_1018
+! Total Count: 33996
+! Version: 240105_1019
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -33935,3 +33935,80 @@ waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,wa
 waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#.player-rm > a[target="_blank"]
 waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#a[href*=".umtrack.com/"]
 zhuzhai.com##.news-details-ad
+||at885.icu^
+||baxbyfn.cn^
+||bqjqripb.xyz^
+||bujz.top^
+||jdrnpei.xyz^
+||kqjqripb.xyz^
+||mqjqripb.xyz^
+||oqvucp.icu^
+||tqjqripb.xyz^
+||tszoxhtk.xyz^
+||uqjqripb.xyz^
+||vnvyhj.xyz^
+||werssf.com^
+||xqjqripb.xyz^
+/sfsafsadfjbbj-dsafjnb-1321533417.
+3dmgame.com##.addownbox_gaosu
+3dmgame.com#%#//scriptlet('abort-on-property-write', 'adStart')
+3dmgame.com#?#.Gmaeinfobtn_tab > a.patchshow[style]:has(> span:contains(/^广告$/))
+@@||ambiguousafternoon.com^$script,xmlhttprequest
+@@||amethystzenith.com^$script,xmlhttprequest
+@@||astonishingair.com^$script,xmlhttprequest
+@@||beetleend.com^$script,xmlhttprequest
+@@||boundarybusiness.com^$script,xmlhttprequest
+@@||burlywhistle.com^$script,xmlhttprequest
+@@||cattlecommittee.com^$script,xmlhttprequest
+@@||changeablecats.com^$script,xmlhttprequest
+@@||cherriescloud.com^$script,xmlhttprequest
+@@||colossalcry.com^$script,xmlhttprequest
+@@||combcompetition.com^$script,xmlhttprequest
+@@||coralreverie.com^$script,xmlhttprequest
+@@||cutcurrent.com^$script,xmlhttprequest
+@@||dailydivision.com^$script,xmlhttprequest
+@@||elderlybean.com^$script,xmlhttprequest
+@@||eminentbubble.com^$script,xmlhttprequest
+@@||enchantingvalley.com^$script,xmlhttprequest
+@@||encouragingthread.com^$script,xmlhttprequest
+@@||engineergrape.com^$script,xmlhttprequest
+@@||featherstage.com^$script,xmlhttprequest
+@@||fewkittens.com^$script,xmlhttprequest
+@@||followborder.com^$script,xmlhttprequest
+@@||generateoffice.com^$script,xmlhttprequest
+@@||giantsvessel.com^$script,xmlhttprequest
+@@||haplesshydrant.com^$script,xmlhttprequest
+@@||marblediscussion.com^$script,xmlhttprequest
+@@||organizationdogs.com^$script,xmlhttprequest
+@@||pailpatch.com^$script,xmlhttprequest
+@@||pumpedpurpose.com^$script,xmlhttprequest
+@@||purposepipe.com^$script,xmlhttprequest
+@@||restructureinvention.com^$script,xmlhttprequest
+@@||retrievemint.com^$script,xmlhttprequest
+@@||rhetoricalactivity.com^$script,xmlhttprequest
+@@||saffronrefuge.com^$script,xmlhttprequest
+@@||scarcecard.com^$script,xmlhttprequest
+@@||settleshoes.com^$script,xmlhttprequest
+@@||skisofa.com^$script,xmlhttprequest
+@@||sneakwind.com^$script,xmlhttprequest
+@@||soothingglade.com^$script,xmlhttprequest
+@@||spuriousair.com^$script,xmlhttprequest
+@@||squalidscrew.com^$script,xmlhttprequest
+@@||stakingshock.com^$script,xmlhttprequest
+@@||stewedge.com^$script,xmlhttprequest
+@@||stewspiders.com^$script,xmlhttprequest
+@@||stormyfold.com^$script,xmlhttprequest
+@@||swelteringsleep.com^$script,xmlhttprequest
+@@||tranquilamulet.com^$script,xmlhttprequest
+@@||tranquilcanyon.com^$script,xmlhttprequest
+@@||violetreading.com^$script,xmlhttprequest
+@@||wantingwindow.com^$script,xmlhttprequest
+@@||waterywave.com^$script,xmlhttprequest
+@@||yieldingwoman.com^$script,xmlhttprequest
+gvm.com.tw##.promotion > .sp-txt
+gvm.com.tw##.promotion_ad
+instacart.com,instacart.ca#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-rp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-qp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-tp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-up-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vvp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vvvp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-fp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-ap-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-bp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-cp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-dp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+mercadolibre.com.ar,mercadolibre.com.bo,mercadolivre.com.br,mercadolibre.cl,mercadolibre.com.co,mercadolibre.co.cr,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.py,mercadolibre.com.pe,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#$#hide-if-matches-xpath './/p[contains(@class,"ui-recommendations-font-color--GRAY")][text()]//ancestor-or-self::section[@class="ui-recommendations-carousel-wrapper-ref"][1]'
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.io,sieudamtv.me,ephimchill.com,motphimhan.cc,maclife.io,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.com#$#abort-on-property-read document.cookie
+www.youtube.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]' 5;simulate-mouse-event 'button.ytp-ad-skip-button-modern'
+www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]'
