@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 34062
-! Version: 240106_1017
+! Total Count: 34088
+! Version: 240107_1023
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34078,3 +34078,29 @@ truyentuanop.com#$#abort-current-inline-script $ btpop
 viet69.id,ungtycomicsvip.com,truyengihotqua.net,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.cam,phimsexhay669.co,cliphot69.biz,doctruyen3qmoi.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in,truyenvnhay.tv#$#abort-current-inline-script WebAssembly instantiate
 xoilac96.net#$#abort-on-property-read adsRedirectPopups
 ||drawfxk.com^
+||baeldung.com/*/library/dist/js/ad-recovery.min.js
+||bogtrmjz.xyz^
+||dxxwdz.xyz^
+||gdqrcloud.com/adBanner
+||hjdha.cn^
+||hkjunkcall.com/images/b_banner_
+||iumboa.xyz^
+||kogtrmjz.xyz^
+||lcid.top^
+||m8oxd.xyz^
+||mnvxdkd.xyz^
+||mogtrmjz.xyz^
+||szpbg.cn^
+||togtrmjz.xyz^
+||uogtrmjz.xyz^
+||wkzsmj.icu^
+||xogtrmjz.xyz^
+###ADtip
+##.pggc > .ng-star-inserted
+##[src*="/adBanner"]
+0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,hkjunkcall.com,meiyouad.com,moe48.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wokao.co,yeeyi.com##.ads
+0du123.com,100ec.cn,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,iqiyi.com,jia360.com,jojf.cn,junk-call.com,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,woniuyulew.com,xingkbjm.com,zyue.com##.banner
+163.com#@#.s-btns
+baidu.com##.bd-aside-ad
+taiwancall.com##.gad
+||gaipuzui.com^
