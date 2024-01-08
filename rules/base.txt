@@ -48749,3 +48749,25 @@ xoilac96.net#$#abort-on-property-read adsRedirectPopups
 baidu.com##.bd-aside-ad
 taiwancall.com##.gad
 ||gaipuzui.com^
+||aojeet.icu^
+||bfjszxzfvf.com^
+||bhktalt.cn^
+||buoizbtl.xyz^
+||dnn1300.top^
+||fjhrq.xyz^
+||gsiawq.xyz^
+||ktwwzqdx.xyz^
+||kuoizbtl.xyz^
+||lhzxbp.xyz^
+||lkrv.top^
+||lrbvxx.xyz^
+||muoizbtl.xyz^
+||szmty.cn^
+||tuoizbtl.xyz^
+||ugkpsi.xyz^
+||uuoizbtl.xyz^
+||xuoizbtl.xyz^
+||yfzpxnb.xyz^
+##.ddd.ng-star-inserted
+##vg-pause-d > .vg-v-p
+@@/adpro.js$domain=tingfm.com

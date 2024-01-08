@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 34088
-! Version: 240107_1023
+! Total Count: 34110
+! Version: 240108_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34104,3 +34104,25 @@ xoilac96.net#$#abort-on-property-read adsRedirectPopups
 baidu.com##.bd-aside-ad
 taiwancall.com##.gad
 ||gaipuzui.com^
+||aojeet.icu^
+||bfjszxzfvf.com^
+||bhktalt.cn^
+||buoizbtl.xyz^
+||dnn1300.top^
+||fjhrq.xyz^
+||gsiawq.xyz^
+||ktwwzqdx.xyz^
+||kuoizbtl.xyz^
+||lhzxbp.xyz^
+||lkrv.top^
+||lrbvxx.xyz^
+||muoizbtl.xyz^
+||szmty.cn^
+||tuoizbtl.xyz^
+||ugkpsi.xyz^
+||uuoizbtl.xyz^
+||xuoizbtl.xyz^
+||yfzpxnb.xyz^
+##.ddd.ng-star-inserted
+##vg-pause-d > .vg-v-p
+@@/adpro.js$domain=tingfm.com
