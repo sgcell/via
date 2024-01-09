@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 34110
-! Version: 240108_1021
+! Total Count: 34132
+! Version: 240109_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34126,3 +34126,25 @@ taiwancall.com##.gad
 ##.ddd.ng-star-inserted
 ##vg-pause-d > .vg-v-p
 @@/adpro.js$domain=tingfm.com
+||bhhzlax.xyz^
+||btwwzqdx.xyz^
+||cdn77.org^*.mp4$badfilter
+||dkyd6.xyz^
+||eyyqwd.icu^
+||judthih.cn^
+||kxdhrqz.xyz^
+||kzelzfnj.xyz^
+||mtwwzqdx.xyz^
+||nenmu1obbi.info^
+||szmtd.cn^
+||tbdwtn.xyz^
+||ttwwzqdx.xyz^
+||utwwzqdx.xyz^
+||wewbnso.cn^
+||yueipaoo.xyz^*.gif
+1freebb.com,babaorum.info,bboard.it,bestforum4u.com,bestforumforyou.com,bestoof.com,bestthread.com,bigboardlive.com,bigforum4you.com,boardforyou.com,cforum.info,clicforum.com,clicforum.fr,coolforum.info,discuforum.info,discussionforyou.com,ebboard.com,fansforum.info,forum-box.com,forumdesfans.com,forumforever.com,forumserv.com,hereboard.com,hotforum4u.com,hotforumonline.com,leforum.cc,leforum.eu,leforum.tv,level52.com,lolforum.com,lolforum.info,majz.com,myforumlive.com,newforumlive.com,ogameteam.com,phpboard1.com,positiforum.info,quickforum.info,smileforum.info,soforums.com,theforumcity.com,topbboard.com,urtopic.com,vraiforum.com,webrpg.info,xoo.it,xooit.be,xooit.biz,xooit.cc,xooit.co.uk,xooit.com,xooit.eu,xooit.fr,xooit.info,xooit.org,xooit.org.uk,xooit.tv#$#abort-on-property-read document.body.style.backgroundPosition
+@@||wwads.cn/js/makemoney.js$domain=nodejs.cn
+animevietsub.io#$#abort-current-inline-script document.documentElement break;case
+av1868.com,edc1014070.pixnet.net###banner
+caq98i.top#%#//scriptlet('abort-on-property-read', 'alertadmodal')
+ip138.com###banana
