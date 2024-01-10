@@ -48793,3 +48793,27 @@ animevietsub.io#$#abort-current-inline-script document.documentElement break;cas
 av1868.com,edc1014070.pixnet.net###banner
 caq98i.top#%#//scriptlet('abort-on-property-read', 'alertadmodal')
 ip138.com###banana
+||bqgeu.com/js/h$script
+||bzelzfnj.xyz^
+||iincon.icu^
+||jwfesuk.cn^
+||kymahuxv.xyz^
+||ljhbhy.cn^
+||mzelzfnj.xyz^
+||nzlrfdv.xyz^
+||segoyg.xyz^
+||szmdp.cn^
+||tlfurd.xyz^
+||tzelzfnj.xyz^
+||ui8l2.xyz^
+||uzelzfnj.xyz^
+||xzelzfnj.xyz^
+###loading + #app
+##a[href][target="_blank"] > img[src^="https://imgsrc.baidu.com/forum/pic/item"]
+##body > [style$="background-size: 407px 95px !important;"]
+##div.flex.justify-center > ins[id]
+instacart.com,instacart.ca#$#race start; hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-rp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-qp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-tp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-up-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vvp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-vvvp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-fp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-ap-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-bp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-cp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-dp-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@alt,"Sponsored")]/parent::*[@*[contains(name(),"data-ep-eligible")]]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
+ipcelou.com##.MODBanana
+khoaiphim.com,phimmoinay.org#$#abort-current-inline-script jQuery click_time
+tctruyen.com,tctruyen.net,abtruyen.com#$#abort-current-inline-script $ popup
+xemphimhdc.cc#$#abort-current-inline-script document.addEventListener linksToOpen
