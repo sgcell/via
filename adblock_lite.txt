@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 34189
-! Version: 240111_1021
+! Total Count: 34220
+! Version: 240112_1021
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34205,3 +34205,34 @@ viet69.id,ungtycomicsvip.com,truyengihotqua.net,dualeotruyenww.com,yurineko.net,
 ||merqieth.com^
 ||stusnais.com^
 ||uebohjhh.xyz^
+||88lm03.com^
+||ato.tooopen.com^
+||bebohjhh.xyz^
+||fwffa.cn^
+||h1.wk2.com^
+||jsjtjj.xyz^
+||kdjdpyrt.xyz^
+||ljpbtjq.xyz^
+||mebohjhh.xyz^
+||qwmamh.icu^
+||rapidgator.net/images/pics/$domain=appshot.cc
+||szpnp.cn^
+||tebohjhh.xyz^
+||twj6s.icu^
+||u21033.com^
+||wcbghap63.shop^
+||webconf.douyucdn.cn/resource/common/giftPhotos_w.json
+||xebohjhh.xyz^
+||ymmiyun.com^
+baidu.com###u1 > div.guide-info:last-child
+baidu.com##.FYB_RD
+##.ads-img
+boylove1.mobi##.div_sticky2
+boylove1.mobi##.fuafxnfq
+boylove1.mobi##.main-banner
+boylove1.mobi##.sponsor-colse
+boylove1.mobi##div[data-group="300x100"]
+gocphimvn.vip,p.thoctv.com#$#abort-current-inline-script document.createElement script
+khoaiphim.com,phimmoinay.tv#$#abort-current-inline-script jQuery click_time
+phimgichill.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script eval $._Eu
+viet69.id,ungtycomicsvip.com,truyengihotqua.net,truyengihotvay.net,truyengihotnay.com,dualeotruyenww.com,yurineko.net,vlxyz.tv,javhay.cam,phimsexhay669.co,cliphot69.biz,doctruyen3qup.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.com,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in,truyenvnhay.tv,cdnstream.sbs,javtiful.com#$#abort-current-inline-script WebAssembly instantiate
