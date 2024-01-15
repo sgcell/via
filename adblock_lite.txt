@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 34253
-! Version: 240114_1023
+! Total Count: 34276
+! Version: 240115_1024
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34269,3 +34269,26 @@ viet69.id,ungtycomicsvip.com,truyengihotqua.net,truyengihotvay.net,truyengihotna
 ||ueumdkc.cn^
 ||ujrspnbf.xyz^
 ||waymom.xyz^
+||53ynh.xyz^
+||98wjse.top^
+||albdbsk.xyz^
+||bpztsxx.com^
+||c9ql2.com^
+||caajol.icu^
+||evscnfj.cn^
+||gepvgv.icu^
+||imwxsu.xyz^
+||kpbqlqv.cn^
+||lih6e.site^
+||otxlhpm.xyz^
+||pfjtgxc.cn^
+||rmnsdh.xyz^
+||rwftzx.xyz^
+||sdtsad.com^
+||sunshijc.com^
+||uyulwc.xyz^
+##.homepage > .wp-none1
+##.module-tglist > .tg-normal-box
+##.page > .wp-none1
+doubibackup.com,github.io##.guangg
+doubiuser.github.io,doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
