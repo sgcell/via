@@ -48937,3 +48937,29 @@ viet69.id,ungtycomicsvip.com,truyengihotqua.net,truyengihotvay.net,truyengihotna
 ##.page > .wp-none1
 doubibackup.com,github.io##.guangg
 doubiuser.github.io,doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
+||2024114t.shop^
+||dafdfd.cn^
+||ffawfa.cn^
+||h5.xn--jzu814j.com^$document
+||h5.xn--jzu814j.com^$~third-party
+||kozhyf.icu^
+||rvbiocn.cn^
+||u2tu4.icu^
+||zghrxn.xyz^
+caigepseyoulianjie-*.*.com$document
+caigepseyoulianjie-*.*.com$~third-party
+/?user_id=*&token=*&device_id=*&*#/$document
+/?user_id=*&token=*&device_id=*&*#/$~third-party
+##body > #__nuxt
+##body > noscript + #app
+##IMG[src='https://tanju.vip/wapxiezi.png']
+bossfilm.ru,freehat.cc,hlamer.ru,lostpix.com,oxax.tv,potokcdn.com,prostoporno.help,tivix.co,tt-cup.com,tv-assia.org,uploadimagex.com,vmusi.ru,volynpost.com,wowskill.ru,xittv.net,zerno-ua.com#$#abort-on-property-read open
+cars.com#$#hide-if-matches-xpath './/a[@data-linkname="inventory-ad-header"]/ancestor-or-self::div[@class="inventory-ad-main vehicle-card-main"]'
+m.nivod7.tv,m.nivod5.tv,m1.nivod.tv,m.nivod4.tv#%#(function(){window.eval=new Proxy(eval,{apply:(a,b,c)=>{if(c[0]&&c[0].includes("commercial")&&c[0].startsWith("(")&&c[0].endsWith(")")){let a=c[0].slice(1).slice(0,-1),b=JSON.parse(a);b.entity?.commercial&&(b.entity.commercial=void 0),c[0]=`(${JSON.stringify(b)})`}return Reflect.apply(a,b,c)}})})();
+nivod7.tv##.nav-ads
+nivod7.tv,nivod5.tv,nivod4.tv#%#//scriptlet('set-constant', 'detailParams.is_ad_play', 'false')
+viet69.red,ungtycomicsvip.com,truyengihotqua.net,truyengihotvay.net,truyengihotnay.com,dualeotruyenid.com,yurineko.net,vlxyz.tv,javhay.cam,phimsexhay669.co,cliphot69.vin,doctruyen3qup.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,tuoi69.one,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.tv,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motchillzz.in,truyenvnhay.tv,cdnstream.sbs,javtiful.com,tuoi69.tv#$#abort-current-inline-script WebAssembly instantiate
+www.toptruyenhot.co#$#abort-current-inline-script Promise instance
+||aiqu288.com/da/
+||sdklnlsknvcks.com^
+||xn--2qux23cs4e63q.com^
