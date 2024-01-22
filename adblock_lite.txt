@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 34393
-! Version: 240121_2030
+! Total Count: 34426
+! Version: 240122_1025
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34409,3 +34409,36 @@ weibo.com#@#.retweet
 ##a[href*="/hgcoolaa.top"]
 ##body.desktop span[class^="c"] > a[href^="http"][rel="nofollow"][target="_blank"]
 zol.com.cn###downBoxGaosu + a
+||ad.youku.com/vp?
+||chbheroq.xyz^
+||ehrhrrx.xyz^
+||fotrbx.xyz^
+||ged46.xyz^
+||hdaidj.cn^
+||iewtwo.xyz^
+||iivruiz.cn^
+||l0ix1.site^
+||omezame.biz/wp-content/themes/buzzmake/js/modal.
+||ovykq.online^
+||qzvzluu.xyz^
+||wsyfsg.xyz^
+||xerqfh.xyz^
+||xhbheroq.xyz^
+||yhbheroq.xyz^
+||yldfkfb.cn^
+||ypyjyhny.xyz^
+||z3p9f.xyz^
+||zdf3q.xyz^
+wendangwang.com##[onclick="CloseAD();"]
+.xyz/do?$third-party
+##div[class] > span + img[src*=".xyz"]
+@@||piaotia.com/scripts/readindex/tongji.js
+xpiaotian.net#@#.pagead
+||2vqgtxw.cn^
+||3rsppty.cn^
+||aiqu28.com/da/
+||eccki.cn^
+||jhdvcjvsjkvjkb.com^
+||ovnrmvg.cn^
+||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
+||wdadad.cn

@@ -49136,3 +49136,36 @@ weibo.com#@#.retweet
 ##body.desktop span[class^="c"] > a[href^="http"][rel="nofollow"][target="_blank"]
 @@||soft8ware.com^$generichide
 zol.com.cn###downBoxGaosu + a
+||ad.youku.com/vp?
+||chbheroq.xyz^
+||ehrhrrx.xyz^
+||fotrbx.xyz^
+||ged46.xyz^
+||hdaidj.cn^
+||iewtwo.xyz^
+||iivruiz.cn^
+||l0ix1.site^
+||omezame.biz/wp-content/themes/buzzmake/js/modal.
+||ovykq.online^
+||qzvzluu.xyz^
+||wsyfsg.xyz^
+||xerqfh.xyz^
+||xhbheroq.xyz^
+||yhbheroq.xyz^
+||yldfkfb.cn^
+||ypyjyhny.xyz^
+||z3p9f.xyz^
+||zdf3q.xyz^
+wendangwang.com##[onclick="CloseAD();"]
+.xyz/do?$third-party
+##div[class] > span + img[src*=".xyz"]
+@@||piaotia.com/scripts/readindex/tongji.js
+xpiaotian.net#@#.pagead
+||2vqgtxw.cn^
+||3rsppty.cn^
+||aiqu28.com/da/
+||eccki.cn^
+||jhdvcjvsjkvjkb.com^
+||ovnrmvg.cn^
+||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
+||wdadad.cn
