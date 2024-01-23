@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 34426
-! Version: 240122_1025
+! Total Count: 34450
+! Version: 240123_1022
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34442,3 +34442,27 @@ xpiaotian.net#@#.pagead
 ||ovnrmvg.cn^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||wdadad.cn
+||cpyjyhny.xyz^
+||idns.online^
+||xpyjyhny.xyz^
+||xq2024.com^
+sosad123.com##[src="div class="]
+sosad123.com##div > div[id]:has(img[src*=".xyz/"])
+###popup-overlay0.popup-overlay
+###popup-overlay1.popup-overlay
+##.abk-item.abk-banner
+##.popup.popup-abk
+##a[href^="https://ycmw647.com"][target="_blank"]
+##div.cell-lr[onclick^="window.open("]
+##div.nv_blist_cell[onclick^="window.open("]
+##div[class][onclick*="/?channelCode="]
+##div[class][onclick*="/index.html?shareName="]
+##iframe[src*="//tsyndicate.com/"]
+##img[src^="https://imgsrc.baidu.com/forum/pic/item/"][onclick]
+5000yan.com###cebianlan > div[style^="background-color:"][style*="border-radius:"]
+@@/rwd_cap.js$domain=ibf.tw
+dualeotruyenvi.com,m.blogtruyenmoi.com#$#abort-current-inline-script document.addEventListener popunder
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.it,ebay.fr,ebay.es,ebay.com.sg,ebay.ph#$#hide-if-matches-xpath './/span[@class="s-item__promoted"][text()]/ancestor-or-self::li[contains(@class,"s-item")][1]'
+tailieumoi.vn#$#override-property-read linkAff null
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.win,sieudamtv.me,ephimchill.com,motphimhan.cc,maclife.io,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.com,khophim88.net,nhentaivn.com#$#abort-on-property-read document.cookie
+viet69.red,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotvay.net,truyengihotnay.com,dualeotruyenvi.com,yurineko.net,vlxyz.tv,javhay.cam,phimsexhay669.co,cliphot69.vin,doctruyen3qup.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.tv,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motphimz.cc,truyenvnhay.tv,cdnstream.sbs,javtiful.com,tuoi69.tv,quatvn.club#$#abort-current-inline-script WebAssembly instantiate
