@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 35832
-! Version: 240312_1132
+! Total Count: 35868
+! Version: 240313_1014
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -35848,3 +35848,39 @@ zn509.com###klp_hdp
 ||taobao.com^$popup,domain=52movieba.com|btee.net|ck180.net|friok.com|iqiyi.com
 ||uspauline.com^
 ||usphfiona.com^
+||0r3tyg.cn^
+||0tq6ub.cn^
+||ahtfzhs.xyz^
+||c81.ipanocloud.com^
+||eiqsky.xyz^
+||enifdlaw.top^
+||eurodomo.cn^
+||hdvsrz.xyz^
+||jbc568.com^$document
+||jbc568.com^$~third-party
+||njhvalu.cn^
+||oppnfev.xyz^
+||osisk.com^
+||pnxtnp.xyz^
+||rcyzsh.icu^
+||snifdlab.top^
+||swsegi.xyz^
+||vmnlkr.icu^
+/VVAvcnms/*.gif$image
+/src/src.php?c=$document
+/src/src.php?c=$~third-party
+###playlistbtn > a[href="/h0312.html"]
+##[href^="https://jbc568.com/"]
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best
+@@||wandhi.com^$generichide
+admin.rainbow-online.ru,fastpic.ru,gitjournal.tech,logist.uxxo.ru,maxpark.com,meteoservice.ru,newsland.com,pawno-info.ru,smolensk-auto.ru##body > div[id]:not([class])[style="display: block;"]
+cdiscount.com#$#hide-if-matches-xpath './/div[contains(@class,"sponsored")]/ancestor-or-self::div[contains(@id,"AdDisplay") and  contains(@data-action,"AdsDisplay")]'
+cdiscount.com#$#hide-if-matches-xpath './/div[contains(@class,"sponsored")]/ancestor::li[@class="abLabel"]'; hide-if-matches-xpath './/div[contains(@class,"sponsored")]/ancestor::li[1]'
+cdiscount.com#$#hide-if-matches-xpath './/div[contains(@class,"sponsored")]/parent::div[@id]/ancestor::div[@class="o-block"]'
+etellekt.com#$#abort-on-property-read adsRedirectPopups
+instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div ^^sh^^ * li[data-testid] * div>div+div'
+instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div ^^sh^^ article>div+div[aria-hidden]>span'
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#cart-body li' '#cart-body li div[aria-label="Product"]>div ^^sh^^ div > div'
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"]>div ^^sh^^ div > div'
+phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,webx.ditnhau.cc#$#override-property-read video.adVast ''
+wandhi.com##.table img
