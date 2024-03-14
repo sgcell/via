@@ -50755,3 +50755,37 @@ instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]
 instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"]>div ^^sh^^ div > div'
 phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,webx.ditnhau.cc#$#override-property-read video.adVast ''
 wandhi.com##.table img
+||btyhnbmn289.shop^
+||btyhnraw653.shop^
+||mrtxtrq.xyz^
+||pxzrlf.xyz^
+||qhodog.xyz^
+||twqtf.boats^
+||uuvzmba.cn^
+||wjwod.cyou^
+||wnifdlae.top^
+||ydwkrbg.cn^
+||zwxxcb.icu^
+hentai.io##.script_manager_video_master
+malekal.com##.Here
+###adsense_center
+###adsense_footer
+###adsense_header
+###adsense_insert
+##.cailyzad
+##.htvad
+##[class^="adsense-"]
+##[class^="adsense_"]
+##[id^="adsense-"]
+##[id^="adsense_"]
+##img[src*=".twqtf.boats/"]
+##ul > li > a[href][data-id][data-type][data-position][target="_self"]
+ebay.*#$#hide-if-contains-visible-text /Sponsored|Anzeigen|Sponsorisé|Sponsorizzati|Sponsorowane|G⁣e⁣s⁣p⁣o⁣n⁣s⁣o⁣r⁣d|Patrocinado/ div[role]>div 'div[role]>div.recs-item-content * div ^^sh^^ style+span.dsa-label'
+ebay.*#$#hide-if-contains-visible-text /Sponsored|Anzeigen|Sponsorisé|Sponsorizzati|Sponsorowane|G⁣e⁣s⁣p⁣o⁣n⁣s⁣o⁣r⁣d|Patrocinado/ li>div 'li>div.recs-item-content * div ^^sh^^ style+span.dsa-label'
+ebay.*#$#race start; hide-if-contains-and-matches-style /./ li[data-viewport] 'li[data-viewport] .s-item__sep>div ^^sh^^ span' /./ 'overflow-x: visible'; hide-if-contains-visible-text /./ 'li[data-viewport]' '.s-item__sep>div ^^sh^^ span:nth-child(2)'; race stop;
+freehat.cc,hlamer.ru,lostpix.com,oxax.tv,alarfilm.ru,potokcdn.com,prostoporno.help,tivix.co,tt-cup.com,tv-assia.org,uploadimagex.com,vmusi.ru,volynpost.com,wowskill.ru,xittv.net,zerno-ua.com#$#abort-on-property-read open
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#cart-body li' '#cart-body li div[aria-label="Product"] * ^^sh^^ div>section'
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"] * ^^sh^^ div>section'
+kop.net.ua,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,agroter.com.ua,alter-science.info,apnews.com.ua,argumentiru.com,asiaplustj.info,autotema.org.ua,autotheme.info,avtodream.org,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,ck.ua,cn.ua,comments.ua,cvnews.cv.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,firtka.if.ua,forpost.media,fraza.com,gazeta1.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,grad.ua,greenpost.ua,ifnews.org.ua,inforpost.com,inkorr.com,itechua.com,iz.com.ua,kh.ua,khersonline.net,kolizhanka.com.ua,kr.ua,krymr.com,kurskcity.ru,liga.net,lvnews.org.ua,mega-music.pro,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,promin.cv.ua,mistosumy.com,nashbryansk.ru,newsua.one,newsoneua.tv,news24today.info,ngp-ua.info,nnews.com.ua,novavlada.info,novynarnia.com,np.pl.ua,odessa-life.od.ua,ogo.ua,oukr.info,panoptikon.org,pg11.ru,pik.net.ua,pingvin.pro,planetanovosti.com,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,pravdatutnews.com,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,reporter.ua,risu.ua,rivne.media,rivnenews.com.ua,rusjev.com,russianshowbiz.info,rv.ua,rvnews.rv.ua,showdream.org,sport-kr.com.ua,strana.news,strana.today,sud.ua,te.ua,tenews.org.ua,telekritika.ua,theageoffootball.com,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,ukranews.com,ukrrain.com,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,vlast.kzvnn24.ru,volnorez.com.ua,volyninfa.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wona.com.ua,wworld.com.ua,zbirna.com,zp.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
+netfly.fun,netfly.tv##[style^="display: flex; justify-content:"]
+phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,webx.ditnhau.cc,xx.phimsexnhathay.com#$#override-property-read video.adVast ''
