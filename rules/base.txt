@@ -50789,3 +50789,25 @@ instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]
 kop.net.ua,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,agroter.com.ua,alter-science.info,apnews.com.ua,argumentiru.com,asiaplustj.info,autotema.org.ua,autotheme.info,avtodream.org,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,ck.ua,cn.ua,comments.ua,cvnews.cv.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,firtka.if.ua,forpost.media,fraza.com,gazeta1.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,grad.ua,greenpost.ua,ifnews.org.ua,inforpost.com,inkorr.com,itechua.com,iz.com.ua,kh.ua,khersonline.net,kolizhanka.com.ua,kr.ua,krymr.com,kurskcity.ru,liga.net,lvnews.org.ua,mega-music.pro,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,promin.cv.ua,mistosumy.com,nashbryansk.ru,newsua.one,newsoneua.tv,news24today.info,ngp-ua.info,nnews.com.ua,novavlada.info,novynarnia.com,np.pl.ua,odessa-life.od.ua,ogo.ua,oukr.info,panoptikon.org,pg11.ru,pik.net.ua,pingvin.pro,planetanovosti.com,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,pravdatutnews.com,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,reporter.ua,risu.ua,rivne.media,rivnenews.com.ua,rusjev.com,russianshowbiz.info,rv.ua,rvnews.rv.ua,showdream.org,sport-kr.com.ua,strana.news,strana.today,sud.ua,te.ua,tenews.org.ua,telekritika.ua,theageoffootball.com,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,ukranews.com,ukrrain.com,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,vlast.kzvnn24.ru,volnorez.com.ua,volyninfa.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wona.com.ua,wworld.com.ua,zbirna.com,zp.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
 netfly.fun,netfly.tv##[style^="display: flex; justify-content:"]
 phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,webx.ditnhau.cc,xx.phimsexnhathay.com#$#override-property-read video.adVast ''
+||0op8kh.cn^
+||ctmrso.xyz^
+||damiul.icu^
+||frontend.vh.yandex.ru/player/*&adConfig=$domain=mentoday.ru
+||humble-gap.com^$third-party
+||qnifdlay.top^
+||wefihob.cn^
+||xhbshv.xyz^
+@@||cvs.com^$generichide
+cvs.com#$#hide-if-contains /Sponsored/ 'div>div *[new-ec-recommendations] ^^sh^^ * ^^sh^^ * ^^sh^^ section[id] ul>li' 'div>div *[new-ec-recommendations] ^^sh^^ * ^^sh^^ * ^^sh^^ section[id] ul>li>* ^^sh^^ div>div.sponsored-container>span'
+instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div * ^^sh^^ * div>div+div'
+instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ section 'section ^^sh^^ article>div+div[aria-hidden]>span'
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#cart-body li' '#cart-body li div[aria-label="Product"] * ^^sh^^ *'
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"] * ^^sh^^ *'
+phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,clipsex.xxx,xxxvietnam.io,sex.gaimup.net,xx.phimsexvip.cc,xem.ditnhau.cc,xx.phimsexnhathay.com#$#override-property-read video.adVast ''
+search.bilibili.com##.video-list > div.col_3:has(> div.bili-video-card > div.bili-video-card__wrap > a[href*="&csource="])
+thapcam4.net#$#simulate-mouse-event '#modalasd$continue,delay=300'
+viet69.bz,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenme.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.org,cliphot69.city,doctruyen3qkr.com,hentaizz.me,animehay.city,vlxx.xxx,heo69.day,top1sex.club,lenlut.tv,xemxxx.net,hentaivn.top,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.io,cdnstream.sbs,javtiful.com,tuoi69.blog,quatvn2.club,tenmientruyengi.net,topxxxviet.com,phim18hd.top,web.sexviet88.day,sexphetv.pro,helvid.net#$#abort-current-inline-script WebAssembly instantiate
+www.youtube.com##.ytlr-watch-default__ad-badge-for-tvae
+www.youtube.com##ytlr-ad-skip-or-preview
+www.youtube.com##ytlr-banner-cta-renderer
+www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[@id="ytlr-player__player-container"]//div[contains(@class,"ad-interrupting") or contains(@class,"ad-showing")]';
