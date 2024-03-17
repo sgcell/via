@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 混合规则（轻量版）
-! Total Count: 35924
-! Version: 240315_1013
+! Total Count: 35788
+! Version: 240317_1212
 ! Homepage: https://sgcell.github.io/via/
 
 ! →→→→域名规则 起始←←←← !
@@ -34035,8 +34035,6 @@ vidhidepro.com,fc2stream.tv,mycloud123.top,doodporn.xyz,guccihide.com,streamtb.m
 xxxfiles.tv,porngo.com,veryfreeporn.com,xxxfiles.com##.header_spot
 .xyz:*/cc/*?is_not=$third-party
 ##a[href*="/dsf88.cc"]
-##div[style="margin:10px auto;width: 930px;height: 250px;"]
-##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
 /media/fitad/*
 acgfta.com##a[href^="https://ifift.com/"]
 hqyman.cn##a[href="https://hqyman.cn/taobao/"]
@@ -34060,7 +34058,6 @@ playwright.nodejs.cn###pagead
 ||wkzsmj.icu^
 ||xogtrmjz.xyz^
 ###ADtip
-##.pggc > .ng-star-inserted
 ##[src*="/adBanner"]
 0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,hkjunkcall.com,meiyouad.com,moe48.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wokao.co,yeeyi.com##.ads
 0du123.com,100ec.cn,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,iqiyi.com,jia360.com,jojf.cn,junk-call.com,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,woniuyulew.com,xingkbjm.com,zyue.com##.banner
@@ -34088,7 +34085,6 @@ taiwancall.com##.gad
 ||xuoizbtl.xyz^
 ||yfzpxnb.xyz^
 ##.ddd.ng-star-inserted
-##vg-pause-d > .vg-v-p
 @@/adpro.js$domain=tingfm.com
 ||bhhzlax.xyz^
 ||btwwzqdx.xyz^
@@ -34124,7 +34120,6 @@ ip138.com###banana
 ||uzelzfnj.xyz^
 ||xzelzfnj.xyz^
 ##a[href][target="_blank"] > img[src^="https://imgsrc.baidu.com/forum/pic/item"]
-##body > [style$="background-size: 407px 95px !important;"]
 ##div.flex.justify-center > ins[id]
 ipcelou.com##.MODBanana
 ||1fzjy.xyz^
@@ -34230,9 +34225,6 @@ boylove1.mobi##div[data-group="300x100"]
 ||sdtsad.com^
 ||sunshijc.com^
 ||uyulwc.xyz^
-##.homepage > .wp-none1
-##.module-tglist > .tg-normal-box
-##.page > .wp-none1
 doubibackup.com,github.io##.guangg
 doubiuser.github.io,doubibackup.com#?#.custom-html-widget:-abp-has(div[style^="position"])
 ||2024114t.shop^
@@ -34248,7 +34240,6 @@ caigepseyoulianjie-*.*.com$document
 caigepseyoulianjie-*.*.com$~third-party
 /?user_id=*&token=*&device_id=*&*#/$document
 /?user_id=*&token=*&device_id=*&*#/$~third-party
-##body > #__nuxt
 ##IMG[src='https://tanju.vip/wapxiezi.png']
 nivod7.tv##.nav-ads
 ||aiqu288.com/da/
@@ -34402,12 +34393,9 @@ weibo.com#@#.retweet
 ||yohnoirs.com^
 ||ypffkbpq.xyz^
 ||zfp32.buzz^
-###alert_windows > .q-dialog__backdrop
 ###div_top_ads
-##.alert_windows > .q-card__actions > a
 ##a[href*="/hgcool360.top"]
 ##a[href*="/hgcoolaa.top"]
-##body.desktop span[class^="c"] > a[href^="http"][rel="nofollow"][target="_blank"]
 zol.com.cn###downBoxGaosu + a
 ||ad.youku.com/vp?
 ||chbheroq.xyz^
@@ -34430,8 +34418,6 @@ zol.com.cn###downBoxGaosu + a
 ||z3p9f.xyz^
 ||zdf3q.xyz^
 wendangwang.com##[onclick="CloseAD();"]
-.xyz/do?$third-party
-##div[class] > span + img[src*=".xyz"]
 @@||piaotia.com/scripts/readindex/tongji.js
 xpiaotian.net#@#.pagead
 ||2vqgtxw.cn^
@@ -34448,15 +34434,8 @@ xpiaotian.net#@#.pagead
 ||xq2024.com^
 sosad123.com##[src="div class="]
 sosad123.com##div > div[id]:has(img[src*=".xyz/"])
-###popup-overlay0.popup-overlay
-###popup-overlay1.popup-overlay
-##.abk-item.abk-banner
-##.popup.popup-abk
 ##a[href^="https://ycmw647.com"][target="_blank"]
-##div.cell-lr[onclick^="window.open("]
 ##div.nv_blist_cell[onclick^="window.open("]
-##div[class][onclick*="/?channelCode="]
-##div[class][onclick*="/index.html?shareName="]
 ##iframe[src*="//tsyndicate.com/"]
 ##img[src^="https://imgsrc.baidu.com/forum/pic/item/"][onclick]
 5000yan.com###cebianlan > div[style^="background-color:"][style*="border-radius:"]
@@ -35304,7 +35283,6 @@ azrotv.com##div[id^="laoad_Adb"]
 baidu.com###page-copyright > div[style^="position: fixed;"][ref]
 environmentenergyleader.com,econostrum.info,repack-games.com,cryptopolitan.com,windowsactivators.org,asuratoon.com,chatgbt.one,njbeachcams.com,nokiapoweruser.com,tricksndtips.com,naijaremix.com,rockandrollgarage.com,firstcuriosity.com,bigbrothernetwork.com,flamescans.org,tech-latest.com,nintendoeverything.com,game-2u.com,ps4pkg.com,asurascans.com,pcguide.com,anime7.download,netchimp.co.uk,howifx.com,9xflix.qpon,digitbin.com,swarmmanga.com,coffeenerd.blog,nsw2u.*,thegeekpage.com,crewbase.net,watchseinfeld.cc,vavada5com.com,dandadanmanga.org,vgkami.com,tvtonight.com.au,lilymanga.com,pornstash.in,warsawnow.pl,silverspoon.site,asura.gg,getdroidtips.com,crackshere.com,watchasian.ac,qzlyrics.com,bollywoodhindi.in,marugujarat.in,linuxcapable.com,apkmb.com,techgeekbuzz.com,designcorral.com,otakukan.com,movies07.art,monsterspost.com,policeresults.com,mpnrc.org,browserhow.com,chromeunboxed.com,journeybytes.com,tutcourse.com,opportunitydesk.info,freecoursesites.net,tektutorialshub.com,fossbytes.com,borncity.com,profitableventure.com,guru99.com,whatisthemeaningofname.com,techpp.com,troypoint.com,bakabuzz.com,conservativebrief.com,xyzcomics.com,desiflix.club,jujmanga.com,myhealthgazette.com,cryptodirectories.com,secondlifetranslations.com,thewincentral.com,techrfour.com,firmwarefile.com,bicfic.com##body .code-block
 fctvhd.com##.mw-adblock
-https://*.*/zh/*/*.gif$third-party,image
 jav777.xyz##[class^="myad_alert"]
 jizzoncam.com,camwhores.video,moreamateurs.com,faptor.com,pornachi.com,porndude.wtf,orgazmax.com,pornwex.tv,pornfd.com,area51.porn,pornrabbit.com,milf-porn.xxx,sextaped.com,pornxpert.com,perverttube.com,fapnow.xxx,epicgfs.com,scatkings.com,pornflix.to,xbjav.com,heavyfetish.com,tabootube.xxx,amateur8.com,maturetubehere.com,crazyporn.xxx,pornissimo.org,lesbian8.com,enf-cmnf.com,filtercams.com,thesquarshers.com,bigassporn.tv,camhoes.tv,porn00.org,keekass.com,fuckit.cc,camwhoresbay.com,camwhoreshd.com##.block-video > div.table
 ktmukmx.com##.container > div[style] > div.row > .col-sm-3 > a[target="_blank"]
@@ -35338,15 +35316,10 @@ xs77.cc,xs77.com,xs77.buzz,xs77.cn,xs77.xyz##body > div[style*="margin:"] > div
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.AdvRsyaCrossPage
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.react-component_js_inited > [class^="m"][class$="_filled"]
 -ad-pixel-
-.app:*/?i_code=$document
-.app:*/?i_code=$~third-party
 .buzz/video-ads/
 .buzz:80*/cc/*?is_not=$third-party
 .buzz:80*/sc/*?is_not=$third-party
 .cc/o.js$third-party,script
-.cn:*/c.php?s=
-.cn:*/mnrt/*.json
-.cn:80*/cc/*?is_not=$third-party
 .cn:8001/cc/*?is_not=
 .cn:8001/sc/*?is_not=
 .cn:8002/cc/*?is_not=
@@ -35367,12 +35340,8 @@ yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yande
 .cn:8009/sc/*?is_not=
 .cn:8010/cc/*?is_not=
 .cn:8010/sc/*?is_not=
-.com/api/ipv4check?mark
-.com/ev/*?type=events&event=
 .com/ev/*?type=impressions
 .com/in/multy$third-party
-.com/track/pv?id=
-.com:*/c.php?s=
 .com:*/effect.php?type=*=*&zoneid=*
 .com:*/mnrt/*.json
 .com:*/o.js$third-party
@@ -35413,7 +35382,6 @@ yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yande
 :*/api/v1/api2/tongji/start?pid=$third-party
 :*/pv.php?op=pv&ext=$third-party
 ://*.kuaijuwu.*/js/cba/$script,~third-party
-://*.xn--*.*/1*/*_0*.js$third-party
 ://888bb*ww.com/$image,third-party
 ://888xx*kk.com/$image,third-party
 ://creative.*.com/widgets/v4/Universal
@@ -35561,15 +35529,7 @@ yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yande
 ###firstad
 ###fixed-ad
 ###fixedAd
-###fixedban
-###leftCouple + #rightFloat
-###leftCouple1 + #rightFloat1
-###leftCouplet + #rightFloat
-###left_couple + #right_float
 ###leftad2
-###leftd.leftd
-###popadv_popmask
-###popadv_popmenu
 ###section-ad
 ###section-ad-bottom
 ###section_ad
@@ -35578,20 +35538,11 @@ yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yande
 ###vodplay-ad-hf2-m
 ###vodplay-ad-hf3
 ###vodplay-ad-hf3-m
-###wp > .V-video-float
-##.TqAdShow
-##._300x250.item
-##.ab-detector-wrap
-##.abk-img
 ##.ad_pc
 ##.adpcc
 ##.adppc
 ##.ads_plugin
-##.affTpllay[style]
-##.app-abk
 ##.av-apps
-##.coupletad
-##.dabc > .ng-star-inserted
 ##.fixed-ad-aside
 ##.fixed-ad-bottom
 ##.fixed-ads
@@ -35603,26 +35554,15 @@ yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yande
 ##.fixed_ad
 ##.fixed_adslot
 ##.fixed_advert_banner
-##.gnt_xmst
-##.headThreeImg > .block > a > img
-##.inPlayerGGdiv
-##.maomi-content > .top-af-container
-##.orbui-site
-##.panel > .nav-list > a > dl
 ##.pause-ad
-##.pggd > .ng-star-inserted
-##.qgg_popup_close2
-##.row > .top-af-container
 ##.video-inline-ads
 ##[ad_display_dot]
 ##[class^="myad_alert"]
-##[data-element="empty"][data-izone="uc-area"]
 ##[href="https://05.zde95.vip/"]
 ##[href^="https://cdgjv8760.xyz"]
 ##[id$="-ad-box"]
 ##[id$="-ads-box"]
 ##[id$="_ad_box"]
-##[id].f_top1
 ##[style*="cos.ap-guangzhou.myqcloud.com/img/"][style*=".js"]
 ##[style*="cos.ap-nanjing.myqcloud.com/img/"][style*=".js"]
 ##a[href*=".asd245796.com:"]
@@ -35644,36 +35584,15 @@ yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yande
 ##a[href="https://mbfbf022.xyz"][target="_blank"]
 ##a[href^="https://test.oktongji.com/"][target="_blank"]
 ##a[href^="https://www.b9282.vip"]
-##a[id][href*="/c.php?s="][href$="="]
 ##a[onclick$="'clicked', 'ad');"]
-##a[target="_blank"] > img[src$="-150-300.gif"]
-##a[target="_blank"] > img[src$="-150x300.gif"]
-##a[target="_blank"] > img[src$="/150x300.gif"]
-##body > [style$="background-size: 407px 132px !important;"]
-##body > script
-##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
-##div.p > a > img[style*="width:100%;"]
-##div[class^="_"] > [data-element="empty"][data-izone]
 ##iframe[src*="deliver.ptgncdn.com"]
 ##iframe[src^="https://baimei511.mom"]
-##img[onclick^="golh"][onclick$=")"][width="100%"],img[onclick^="golh"][onclick$=")"][src$=".gif"]
 ##img[src*="kfpicimage.xyz"]
 ##img[src^="https://888bb111ww.com/"]
 ##img[src^="https://888xx222kk.com/"]
 ##img[src^="https://888xx555kk.com"]
 ##img[src^="https://bejjci.twqtf.boats"]
-##img[src^="https://img"][src*="//upload/"][src$=".js"]
-##ins[id][style][status="done"]
-##script + .header_rmb
-##script + .p-screen-dialog
-##script + .show-app
-##script + .show-app2
-##script + .show-app3
-##script + .show-app4
 ##script + iframe[src^="https://s.uuidksinc.net"]
-##script > .p-screen-dialog
-##section > .friendlylink > .w
-##vg-pause-d
 ~manwa.me,~manwa.site,~manwa.vip,~manwa.xyz,~manwa1.me,~manwa1.site,~manwa1.vip,~manwa1.xyz,~manwa10.me,~manwa10.site,~manwa10.vip,~manwa10.xyz,~manwa2.me,~manwa2.site,~manwa2.vip,~manwa2.xyz,~manwa3.me,~manwa3.site,~manwa3.vip,~manwa3.xyz,~manwa4.me,~manwa4.site,~manwa4.vip,~manwa4.xyz,~manwa5.me,~manwa5.site,~manwa5.vip,~manwa5.xyz,~manwa6.me,~manwa6.site,~manwa6.vip,~manwa6.xyz,~manwa7.me,~manwa7.site,~manwa7.vip,~manwa7.xyz,~manwa8.me,~manwa8.site,~manwa8.vip,~manwa8.xyz,~manwa9.me,~manwa9.site,~manwa9.vip,~manwa9.xyz,~manwafei.biz,~manwafei.cc,~manwafei.com,~manwafei.me,~manwafei.online,~manwafei.site,~manwafei.top,~manwafei.xyz,~manwafei1.biz,~manwafei1.cc,~manwafei1.com,~manwafei1.me,~manwafei1.online,~manwafei1.site,~manwafei1.top,~manwafei1.xyz,~manwafei10.biz,~manwafei10.cc,~manwafei10.com,~manwafei10.me,~manwafei10.online,~manwafei10.site,~manwafei10.top,~manwafei10.xyz,~manwafei2.biz,~manwafei2.cc,~manwafei2.com,~manwafei2.me,~manwafei2.online,~manwafei2.site,~manwafei2.top,~manwafei2.xyz,~manwafei3.biz,~manwafei3.cc,~manwafei3.com,~manwafei3.me,~manwafei3.online,~manwafei3.site,~manwafei3.top,~manwafei3.xyz,~manwafei4.biz,~manwafei4.cc,~manwafei4.com,~manwafei4.me,~manwafei4.online,~manwafei4.site,~manwafei4.top,~manwafei4.xyz,~manwafei5.biz,~manwafei5.cc,~manwafei5.com,~manwafei5.me,~manwafei5.online,~manwafei5.site,~manwafei5.top,~manwafei5.xyz,~manwafei6.biz,~manwafei6.cc,~manwafei6.com,~manwafei6.me,~manwafei6.online,~manwafei6.site,~manwafei6.top,~manwafei6.xyz,~manwafei7.biz,~manwafei7.cc,~manwafei7.com,~manwafei7.me,~manwafei7.online,~manwafei7.site,~manwafei7.top,~manwafei7.xyz,~manwafei8.biz,~manwafei8.cc,~manwafei8.com,~manwafei8.me,~manwafei8.online,~manwafei8.site,~manwafei8.top,~manwafei8.xyz,~manwafei9.biz,~manwafei9.cc,~manwafei9.com,~manwafei9.me,~manwafei9.online,~manwafei9.site,~manwafei9.top,~manwafei9.xyz,~manwaq.vip,~manwaq1.vip,~manwaq10.vip,~manwaq2.vip,~manwaq3.vip,~manwaq4.vip,~manwaq5.vip,~manwaq6.vip,~manwaq7.vip,~manwaq8.vip,~manwaq9.vip,~mwcomic.biz,~mwcomic.cc,~mwcomic.co,~mwcomic.online,~mwcomic.top,~mwcomic.xyz,~mwcomic1.biz,~mwcomic1.cc,~mwcomic1.co,~mwcomic1.online,~mwcomic1.top,~mwcomic1.xyz,~mwcomic10.biz,~mwcomic10.cc,~mwcomic10.co,~mwcomic10.online,~mwcomic10.top,~mwcomic10.xyz,~mwcomic2.biz,~mwcomic2.cc,~mwcomic2.co,~mwcomic2.online,~mwcomic2.top,~mwcomic2.xyz,~mwcomic3.biz,~mwcomic3.cc,~mwcomic3.co,~mwcomic3.online,~mwcomic3.top,~mwcomic3.xyz,~mwcomic4.biz,~mwcomic4.cc,~mwcomic4.co,~mwcomic4.online,~mwcomic4.top,~mwcomic4.xyz,~mwcomic5.biz,~mwcomic5.cc,~mwcomic5.co,~mwcomic5.online,~mwcomic5.top,~mwcomic5.xyz,~mwcomic6.biz,~mwcomic6.cc,~mwcomic6.co,~mwcomic6.online,~mwcomic6.top,~mwcomic6.xyz,~mwcomic7.biz,~mwcomic7.cc,~mwcomic7.co,~mwcomic7.online,~mwcomic7.top,~mwcomic7.xyz,~mwcomic8.biz,~mwcomic8.cc,~mwcomic8.co,~mwcomic8.online,~mwcomic8.top,~mwcomic8.xyz,~mwcomic9.biz,~mwcomic9.cc,~mwcomic9.co,~mwcomic9.online,~mwcomic9.top,~mwcomic9.xyz##.ad-area
 @@.com/o.js$third-party,script,domain=mpo18.com|xcupfox.com
 @@/300x250.gif$domain=manwa.me|manwa.site|manwa.vip|manwa.xyz|manwa1.me|manwa1.site|manwa1.vip|manwa1.xyz|manwa10.me|manwa10.site|manwa10.vip|manwa10.xyz|manwa2.me|manwa2.site|manwa2.vip|manwa2.xyz|manwa3.me|manwa3.site|manwa3.vip|manwa3.xyz|manwa4.me|manwa4.site|manwa4.vip|manwa4.xyz|manwa5.me|manwa5.site|manwa5.vip|manwa5.xyz|manwa6.me|manwa6.site|manwa6.vip|manwa6.xyz|manwa7.me|manwa7.site|manwa7.vip|manwa7.xyz|manwa8.me|manwa8.site|manwa8.vip|manwa8.xyz|manwa9.me|manwa9.site|manwa9.vip|manwa9.xyz|manwafei.biz|manwafei.cc|manwafei.com|manwafei.me|manwafei.online|manwafei.site|manwafei.top|manwafei.xyz|manwafei1.biz|manwafei1.cc|manwafei1.com|manwafei1.me|manwafei1.online|manwafei1.site|manwafei1.top|manwafei1.xyz|manwafei10.biz|manwafei10.cc|manwafei10.com|manwafei10.me|manwafei10.online|manwafei10.site|manwafei10.top|manwafei10.xyz|manwafei2.biz|manwafei2.cc|manwafei2.com|manwafei2.me|manwafei2.online|manwafei2.site|manwafei2.top|manwafei2.xyz|manwafei3.biz|manwafei3.cc|manwafei3.com|manwafei3.me|manwafei3.online|manwafei3.site|manwafei3.top|manwafei3.xyz|manwafei4.biz|manwafei4.cc|manwafei4.com|manwafei4.me|manwafei4.online|manwafei4.site|manwafei4.top|manwafei4.xyz|manwafei5.biz|manwafei5.cc|manwafei5.com|manwafei5.me|manwafei5.online|manwafei5.site|manwafei5.top|manwafei5.xyz|manwafei6.biz|manwafei6.cc|manwafei6.com|manwafei6.me|manwafei6.online|manwafei6.site|manwafei6.top|manwafei6.xyz|manwafei7.biz|manwafei7.cc|manwafei7.com|manwafei7.me|manwafei7.online|manwafei7.site|manwafei7.top|manwafei7.xyz|manwafei8.biz|manwafei8.cc|manwafei8.com|manwafei8.me|manwafei8.online|manwafei8.site|manwafei8.top|manwafei8.xyz|manwafei9.biz|manwafei9.cc|manwafei9.com|manwafei9.me|manwafei9.online|manwafei9.site|manwafei9.top|manwafei9.xyz|manwaq.vip|manwaq1.vip|manwaq10.vip|manwaq2.vip|manwaq3.vip|manwaq4.vip|manwaq5.vip|manwaq6.vip|manwaq7.vip|manwaq8.vip|manwaq9.vip|mwcomic.biz|mwcomic.cc|mwcomic.co|mwcomic.online|mwcomic.top|mwcomic.xyz|mwcomic1.biz|mwcomic1.cc|mwcomic1.co|mwcomic1.online|mwcomic1.top|mwcomic1.xyz|mwcomic10.biz|mwcomic10.cc|mwcomic10.co|mwcomic10.online|mwcomic10.top|mwcomic10.xyz|mwcomic2.biz|mwcomic2.cc|mwcomic2.co|mwcomic2.online|mwcomic2.top|mwcomic2.xyz|mwcomic3.biz|mwcomic3.cc|mwcomic3.co|mwcomic3.online|mwcomic3.top|mwcomic3.xyz|mwcomic4.biz|mwcomic4.cc|mwcomic4.co|mwcomic4.online|mwcomic4.top|mwcomic4.xyz|mwcomic5.biz|mwcomic5.cc|mwcomic5.co|mwcomic5.online|mwcomic5.top|mwcomic5.xyz|mwcomic6.biz|mwcomic6.cc|mwcomic6.co|mwcomic6.online|mwcomic6.top|mwcomic6.xyz|mwcomic7.biz|mwcomic7.cc|mwcomic7.co|mwcomic7.online|mwcomic7.top|mwcomic7.xyz|mwcomic8.biz|mwcomic8.cc|mwcomic8.co|mwcomic8.online|mwcomic8.top|mwcomic8.xyz|mwcomic9.biz|mwcomic9.cc|mwcomic9.co|mwcomic9.online|mwcomic9.top|mwcomic9.xyz
@@ -35687,21 +35606,14 @@ coolapk.com#@#[id$="ad-box"]
 manwa.me,manwa.site,manwa.vip,manwa.xyz,manwa1.me,manwa1.site,manwa1.vip,manwa1.xyz,manwa10.me,manwa10.site,manwa10.vip,manwa10.xyz,manwa2.me,manwa2.site,manwa2.vip,manwa2.xyz,manwa3.me,manwa3.site,manwa3.vip,manwa3.xyz,manwa4.me,manwa4.site,manwa4.vip,manwa4.xyz,manwa5.me,manwa5.site,manwa5.vip,manwa5.xyz,manwa6.me,manwa6.site,manwa6.vip,manwa6.xyz,manwa7.me,manwa7.site,manwa7.vip,manwa7.xyz,manwa8.me,manwa8.site,manwa8.vip,manwa8.xyz,manwa9.me,manwa9.site,manwa9.vip,manwa9.xyz,manwafei.biz,manwafei.cc,manwafei.com,manwafei.me,manwafei.online,manwafei.site,manwafei.top,manwafei.xyz,manwafei1.biz,manwafei1.cc,manwafei1.com,manwafei1.me,manwafei1.online,manwafei1.site,manwafei1.top,manwafei1.xyz,manwafei10.biz,manwafei10.cc,manwafei10.com,manwafei10.me,manwafei10.online,manwafei10.site,manwafei10.top,manwafei10.xyz,manwafei2.biz,manwafei2.cc,manwafei2.com,manwafei2.me,manwafei2.online,manwafei2.site,manwafei2.top,manwafei2.xyz,manwafei3.biz,manwafei3.cc,manwafei3.com,manwafei3.me,manwafei3.online,manwafei3.site,manwafei3.top,manwafei3.xyz,manwafei4.biz,manwafei4.cc,manwafei4.com,manwafei4.me,manwafei4.online,manwafei4.site,manwafei4.top,manwafei4.xyz,manwafei5.biz,manwafei5.cc,manwafei5.com,manwafei5.me,manwafei5.online,manwafei5.site,manwafei5.top,manwafei5.xyz,manwafei6.biz,manwafei6.cc,manwafei6.com,manwafei6.me,manwafei6.online,manwafei6.site,manwafei6.top,manwafei6.xyz,manwafei7.biz,manwafei7.cc,manwafei7.com,manwafei7.me,manwafei7.online,manwafei7.site,manwafei7.top,manwafei7.xyz,manwafei8.biz,manwafei8.cc,manwafei8.com,manwafei8.me,manwafei8.online,manwafei8.site,manwafei8.top,manwafei8.xyz,manwafei9.biz,manwafei9.cc,manwafei9.com,manwafei9.me,manwafei9.online,manwafei9.site,manwafei9.top,manwafei9.xyz,manwaq.vip,manwaq1.vip,manwaq10.vip,manwaq2.vip,manwaq3.vip,manwaq4.vip,manwaq5.vip,manwaq6.vip,manwaq7.vip,manwaq8.vip,manwaq9.vip,mwcomic.biz,mwcomic.cc,mwcomic.co,mwcomic.online,mwcomic.top,mwcomic.xyz,mwcomic1.biz,mwcomic1.cc,mwcomic1.co,mwcomic1.online,mwcomic1.top,mwcomic1.xyz,mwcomic10.biz,mwcomic10.cc,mwcomic10.co,mwcomic10.online,mwcomic10.top,mwcomic10.xyz,mwcomic2.biz,mwcomic2.cc,mwcomic2.co,mwcomic2.online,mwcomic2.top,mwcomic2.xyz,mwcomic3.biz,mwcomic3.cc,mwcomic3.co,mwcomic3.online,mwcomic3.top,mwcomic3.xyz,mwcomic4.biz,mwcomic4.cc,mwcomic4.co,mwcomic4.online,mwcomic4.top,mwcomic4.xyz,mwcomic5.biz,mwcomic5.cc,mwcomic5.co,mwcomic5.online,mwcomic5.top,mwcomic5.xyz,mwcomic6.biz,mwcomic6.cc,mwcomic6.co,mwcomic6.online,mwcomic6.top,mwcomic6.xyz,mwcomic7.biz,mwcomic7.cc,mwcomic7.co,mwcomic7.online,mwcomic7.top,mwcomic7.xyz,mwcomic8.biz,mwcomic8.cc,mwcomic8.co,mwcomic8.online,mwcomic8.top,mwcomic8.xyz,mwcomic9.biz,mwcomic9.cc,mwcomic9.co,mwcomic9.online,mwcomic9.top,mwcomic9.xyz#@#.ad-area
 mpo18.com#@#.bottomad
 ##.adwap
-##.globalPadding
 ##A.wrapper_bg_c.hidden-xs
 ##A[href*='ds2f1sd31g.vip']
-##DIV#wwads
-##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background:#000;opacity:0.01;']
 ##IMG[onclick='godown()'][src$='gif']
-##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
-##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
-##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: relative;']
 ##[href*='pojuko.buzz']
 ##[href*='slkdnlkfnskl.com']
 ##[href^='https://31jrx5y7.com/']
 ##[rel='nofollow'][href^='/book/baidu_verify_code']
 ##[src^='https://kykqss.xyz']
-##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
 $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|0794.org|114zww.com|123du.vip|123wx.cc|126shu.org|12zw.net|13txt.net|147xiaoshuo.com|156zw.com|16kxsw.com|17k.com|1biqu.com|1kans.com|1pwx.com|230book.net|23hh.com|23qb.com|23qb.net|23sk.net|23us.tw|23wxx.com|23xstxt.net|24kxs.cc|2kxs.info|333uu.org|33yq.org|360xs.com|38kanshu.net|3yt.com|477zw.com|4gxs.cc|4xiaoshuo.net|4yydstxt226.com|50zw.co|50zw.com|50zww.net|51eshu.com|52biquge.com|52bqg.org|52shuku123.org|52xs.net|56shuku.info|59xs.com|630shu.net|6666xsw.com|67shu.net|69kshu.win|69shu.org|69zww.com|7017k.net|777zw.net|779buy.com|77xsw.cc|8181zw.com|81book.com|81new.cc|81zw.me|91zww.com|93xscc.com|99mk.net|9tiefu.com|a6ksw.net|abcxs.net|abqg5200.com|aiwx.info|aixiashu.net|aixs.la|anshuge.com|b520.cc|b5200.net|bamxs.com|baoshuu.com|bbiquge.cc|bbiquge8.net|bequmo.com|bimixsw.com|biqiuge8.cc|biqudd.com|biqudu.tv|biquge365.net|biquge5200.net|biquge775.com|biquge98.net|biquge99.cc|biqugecd.com|biqugee6.com|biqugesc.org|biqugewu.net|biqugse.com|biquka.com|biqukt.com|biquluo.net|biqupai.com|biququ.info|biqusk.com|biqutsxs.com|biquzw.info|bisowu.cc|bisowu.net|bixia66.cc|bixiaks.com|bjsxjy.com|bodekang.net|bokanx.com|booktxts.com|boquku.com|bqg999.net|bqwxg8.com|bshuku.com|bxwx.live|bxwx00.com|bxwx888.org|changduzw.com|chenkuan.com|china-wuling.com|clwx666.com|d1bzw.com|damengzhu1.com|ddbqgtxt.cc|diyibanzhu.buzz|diyibanzhu9.pro|dizishu.com|dobiez.com|doupocangqiong.info|dpcq1.com|dpcq1.net|duanwenxue.com|feibzw.com|fkxs.net|fxsc6.net|fyxfcw.com|gaofuwu.org|gdbzkz.com|gdbzkz.org|guanshuya.com|haitangmi.xyz|hongyeshuzhai.com|huanyue1234.com|ibiqu.org|ibiquges.com|ibiquges.org|ibiquta.net|ibotaodz.org|idzs.org|ijjjxs.net|imianhuatang.info|ishisetianxia.com|ishubao.org|itshang.com|ivipxs.com|iwurexs.info|ixs.la|jcdf99.com|jianlaixiaoshuo.com|jieshengit.com|jiezhong.cc|jingwubook.com|jmshuwu.net|kanshu5.net|kanshushi.com|lansezw.com|lewen123.com|lewenge.info|lewxs.com|liewenn.com|liudatxt.org|longzu5.net|luoqiu.io|luoqiuzw.com|lzbao.net|maxreader.la|mcmssc.net|meiguixs.net|mhtwxw.com|mingrenteahouse.com|mqxs.com|msxsw.com|nuanyuehanxing.com|oldtimesxs.cc|paoshu8.com|paoshuzw.com|piaotian.la|piaotian55.com|pksge.com|prpcoin.com|qianrenge.cc|qiqidu.net|qishula.com|qishuta.info|qiuyelou.net|qqxsnew.net|qqxsw.so|qr1234.com|quge66.com|ranwen.la|rizhaoxs.com|rmipoz.com|roushuwu6.com|rr3r.com|sbooktxt.com|sdhckt.com|sdhear.com|shanhaimiwenlu.com|shenshuxs.org|shenzu.org|shu008.com|shubaowang.cc|shuhaiwu.com|shumi.la|shumil.co|shuquso.com|shuyy8.com|silukeke.com|silukex.com|siluwx.org|sinodan.cc|sjks88.com|soduha.la|sthuojia.org|stxsw.com|sxcnw.net|sytxt.cc|tianz.la|ting56.cc|tpsge.info|trxs.cc|ttzw.tv|tutengzw.com|txtduo.com|txtwan.com|tysk.cc|u33.cc|u33.me|viviyzw.com|wenxuem.com|wenxuemi.cc|whzh-xs.com|woaidu.info|wodexiaoshuoh.com|wolaidu1.com|x23us.me|x23us.us|x81zw.co|xbiquge.bz|xbiquge.tw|xbiqugela.com|xbiqugexx.com|xbiquke.com|xbxwx.cc|xdingdian.cc|xhtxt.cc|xhytd.com|xiashuyun.com|xiaxs.info|xinqingdou.net|xinremenxs.com|xinxs.la|xiushukong.com|xqianqian.cc|xquge6.com|xs5200.com|xs7788.com|xs98.me|xsb-xs.com|xstt5.com|xszww8.net|xuanjiezhimen.org|xuanshu.org|xuessex.com|xunsilu86.com|xwbxsw.com|xwdsc.com|xxbiqudu.com|xygwh.cc|xyuanzunxs.com|yemancomic.com|ygshu.com|yingsx.com|ymgjmh.com|ymxwx.com|yqd6.com|ysxs8.vip|yunhaixianzong.com|yunxs.info|yuyougu.com|zhuishubox.com|zydu3.com|zzs5.info
 $script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.net
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|zzzzz688.com
@@ -35866,23 +35778,8 @@ zn509.com###klp_hdp
 ||snifdlab.top^
 ||swsegi.xyz^
 ||vmnlkr.icu^
-/VVAvcnms/*.gif$image
-/src/src.php?c=$document
-/src/src.php?c=$~third-party
-###playlistbtn > a[href="/h0312.html"]
-##[href^="https://jbc568.com/"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best
-@@||wandhi.com^$generichide
 admin.rainbow-online.ru,fastpic.ru,gitjournal.tech,logist.uxxo.ru,maxpark.com,meteoservice.ru,newsland.com,pawno-info.ru,smolensk-auto.ru##body > div[id]:not([class])[style="display: block;"]
-cdiscount.com#$#hide-if-matches-xpath './/div[contains(@class,"sponsored")]/ancestor-or-self::div[contains(@id,"AdDisplay") and  contains(@data-action,"AdsDisplay")]'
-cdiscount.com#$#hide-if-matches-xpath './/div[contains(@class,"sponsored")]/ancestor::li[@class="abLabel"]'; hide-if-matches-xpath './/div[contains(@class,"sponsored")]/ancestor::li[1]'
-cdiscount.com#$#hide-if-matches-xpath './/div[contains(@class,"sponsored")]/parent::div[@id]/ancestor::div[@class="o-block"]'
-etellekt.com#$#abort-on-property-read adsRedirectPopups
-instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div ^^sh^^ * li[data-testid] * div>div+div'
-instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div ^^sh^^ article>div+div[aria-hidden]>span'
-instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#cart-body li' '#cart-body li div[aria-label="Product"]>div ^^sh^^ div > div'
-instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"]>div ^^sh^^ div > div'
-phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,webx.ditnhau.cc#$#override-property-read video.adVast ''
 wandhi.com##.table img
 ||btyhnbmn289.shop^
 ||btyhnraw653.shop^
@@ -35897,27 +35794,7 @@ wandhi.com##.table img
 ||zwxxcb.icu^
 hentai.io##.script_manager_video_master
 malekal.com##.Here
-###adsense_center
-###adsense_footer
-###adsense_header
-###adsense_insert
-##.cailyzad
-##.htvad
-##[class^="adsense-"]
-##[class^="adsense_"]
-##[id^="adsense-"]
-##[id^="adsense_"]
-##img[src*=".twqtf.boats/"]
-##ul > li > a[href][data-id][data-type][data-position][target="_self"]
-ebay.*#$#hide-if-contains-visible-text /Sponsored|Anzeigen|Sponsorisé|Sponsorizzati|Sponsorowane|G⁣e⁣s⁣p⁣o⁣n⁣s⁣o⁣r⁣d|Patrocinado/ div[role]>div 'div[role]>div.recs-item-content * div ^^sh^^ style+span.dsa-label'
-ebay.*#$#hide-if-contains-visible-text /Sponsored|Anzeigen|Sponsorisé|Sponsorizzati|Sponsorowane|G⁣e⁣s⁣p⁣o⁣n⁣s⁣o⁣r⁣d|Patrocinado/ li>div 'li>div.recs-item-content * div ^^sh^^ style+span.dsa-label'
-ebay.*#$#race start; hide-if-contains-and-matches-style /./ li[data-viewport] 'li[data-viewport] .s-item__sep>div ^^sh^^ span' /./ 'overflow-x: visible'; hide-if-contains-visible-text /./ 'li[data-viewport]' '.s-item__sep>div ^^sh^^ span:nth-child(2)'; race stop;
-freehat.cc,hlamer.ru,lostpix.com,oxax.tv,alarfilm.ru,potokcdn.com,prostoporno.help,tivix.co,tt-cup.com,tv-assia.org,uploadimagex.com,vmusi.ru,volynpost.com,wowskill.ru,xittv.net,zerno-ua.com#$#abort-on-property-read open
-instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#cart-body li' '#cart-body li div[aria-label="Product"] * ^^sh^^ div>section'
-instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"] * ^^sh^^ div>section'
-kop.net.ua,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,agroter.com.ua,alter-science.info,apnews.com.ua,argumentiru.com,asiaplustj.info,autotema.org.ua,autotheme.info,avtodream.org,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,ck.ua,cn.ua,comments.ua,cvnews.cv.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,firtka.if.ua,forpost.media,fraza.com,gazeta1.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,grad.ua,greenpost.ua,ifnews.org.ua,inforpost.com,inkorr.com,itechua.com,iz.com.ua,kh.ua,khersonline.net,kolizhanka.com.ua,kr.ua,krymr.com,kurskcity.ru,liga.net,lvnews.org.ua,mega-music.pro,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,promin.cv.ua,mistosumy.com,nashbryansk.ru,newsua.one,newsoneua.tv,news24today.info,ngp-ua.info,nnews.com.ua,novavlada.info,novynarnia.com,np.pl.ua,odessa-life.od.ua,ogo.ua,oukr.info,panoptikon.org,pg11.ru,pik.net.ua,pingvin.pro,planetanovosti.com,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,pravdatutnews.com,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,reporter.ua,risu.ua,rivne.media,rivnenews.com.ua,rusjev.com,russianshowbiz.info,rv.ua,rvnews.rv.ua,showdream.org,sport-kr.com.ua,strana.news,strana.today,sud.ua,te.ua,tenews.org.ua,telekritika.ua,theageoffootball.com,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,ukranews.com,ukrrain.com,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,vlast.kzvnn24.ru,volnorez.com.ua,volyninfa.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wona.com.ua,wworld.com.ua,zbirna.com,zp.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
 netfly.fun,netfly.tv##[style^="display: flex; justify-content:"]
-phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,webx.ditnhau.cc,xx.phimsexnhathay.com#$#override-property-read video.adVast ''
 ||0op8kh.cn^
 ||ctmrso.xyz^
 ||damiul.icu^
@@ -35926,17 +35803,4 @@ phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex
 ||qnifdlay.top^
 ||wefihob.cn^
 ||xhbshv.xyz^
-@@||cvs.com^$generichide
-cvs.com#$#hide-if-contains /Sponsored/ 'div>div *[new-ec-recommendations] ^^sh^^ * ^^sh^^ * ^^sh^^ section[id] ul>li' 'div>div *[new-ec-recommendations] ^^sh^^ * ^^sh^^ * ^^sh^^ section[id] ul>li>* ^^sh^^ div>div.sponsored-container>span'
-instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div * ^^sh^^ * div>div+div'
-instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ section 'section ^^sh^^ article>div+div[aria-hidden]>span'
-instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#cart-body li' '#cart-body li div[aria-label="Product"] * ^^sh^^ *'
-instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"] * ^^sh^^ *'
-phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,clipsex.xxx,xxxvietnam.io,sex.gaimup.net,xx.phimsexvip.cc,xem.ditnhau.cc,xx.phimsexnhathay.com#$#override-property-read video.adVast ''
 search.bilibili.com##.video-list > div.col_3:has(> div.bili-video-card > div.bili-video-card__wrap > a[href*="&csource="])
-thapcam4.net#$#simulate-mouse-event '#modalasd$continue,delay=300'
-viet69.bz,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenme.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.org,cliphot69.city,doctruyen3qkr.com,hentaizz.me,animehay.city,vlxx.xxx,heo69.day,top1sex.club,lenlut.tv,xemxxx.net,hentaivn.top,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.io,cdnstream.sbs,javtiful.com,tuoi69.blog,quatvn2.club,tenmientruyengi.net,topxxxviet.com,phim18hd.top,web.sexviet88.day,sexphetv.pro,helvid.net#$#abort-current-inline-script WebAssembly instantiate
-www.youtube.com##.ytlr-watch-default__ad-badge-for-tvae
-www.youtube.com##ytlr-ad-skip-or-preview
-www.youtube.com##ytlr-banner-cta-renderer
-www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[@id="ytlr-player__player-container"]//div[contains(@class,"ad-interrupting") or contains(@class,"ad-showing")]';
