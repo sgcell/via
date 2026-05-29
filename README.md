@@ -1,7 +1,5 @@
 脚本&拦截规则（轻量浏览器）
 
-欢迎提交反馈 [【赞助】](http://top-tech.cc/pay)
-
 # 脚本
 
 - [【 链接重定向 2.4 】](https://sgcell.github.io/via/coolurl.user.js)  
