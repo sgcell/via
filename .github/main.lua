@@ -123,8 +123,6 @@ if _g.h or _g.an>0 or _g.d>0 then
   _g.rd=_g.d+(tonumber(_g.rd) or 0)
   _g.h=[[脚本&拦截规则（轻量浏览器）
 
-欢迎提交反馈 [【赞助】](http://top-tech.cc/pay)
-
 # 脚本
 
 - [【 链接重定向 ]]..(_g.h and _g.h:match("//%s*@version%s+(%S+)") or "")..[[ 】](https://sgcell.github.io/via/coolurl.user.js)  
